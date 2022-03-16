@@ -1,0 +1,1302 @@
+{"prompt":"", "completion":" 
+Surt el matí i trenca l'aurora
+Trenca l'aurora quan surt el matí
+Heus aquí el dia que neix a trenc d'alba
+Quina és la poma que porta el verí
+La matinada serà un matí
+La nit s'acaba però se'm queda a dins
+Se'm queda a dins, a dins
+Se'm queda a dins, a dins, a dins
+Deu ser el perfum de les margarides
+Les malalties que haurem de guarir
+De tant verí vas caure dormida
+Baixa la febre i puja el matí
+La matinada serà un matí
+La nit s'acaba però se'm queda a dins
+La matinada serà un matí
+La nit s'acaba però se'm queda a dins
+Se'm queda a dins, a dins
+Se'm queda a dins, a dins
+Se'm queda a dins, a dins
+Se'm queda a dins, a dins, a dins
+END"}
+{"prompt":"", "completion":" 
+Molt bé.
+A sota l'alzina,
+llapis i paper.
+Molt bé.
+Respires com si no
+ho poguessis fer més.
+Molt bé.
+Ensumes les plantes,
+parles amb la gent.
+Molt bé.
+No hem anat a la platja,
+però aviat ho farem.
+No m'ho acabo de creure:
+com passa el temps…
+Molt bé.
+T'has comprat un vestit i et queda molt bé.
+Molt bé.
+Que la vida et somriu i el dia també.
+Molt bé.
+T'ajeus a la gespa.
+Amb la mà dius adéu, adéu.
+Saps que jo crec en tu
+com qui creu en Déu.
+No m'ho acabo de creure:
+com passa el temps… 
+END"}
+{"prompt":"", "completion":" 
+Aquí, mirant-te a tu.
+Aquí tot és per tu.
+El teu neguit
+i aquesta llum.
+Tens un secret.
+No el sap ningú. No el sap ningú.No el sap ningú.
+Aquí, a l'hospital,
+menjant amb poca sal.
+Tu no saps res.
+Tampoc et cal.
+Tot està bé.
+Tot és normal. Tot és normal. Tot és normal.
+Aquí, mirant-te a tu.
+Aquí tot és per tu.
+Tot és per tu. Tot és per tu. 
+END"}
+{"prompt":"", "completion":" 
+Ets al monestir,
+cova d'escorpí,
+claustre del record,
+temple de l'oblit
+del teu desig de tot.
+Arc de Sant Martí,
+surt del muntanyí.
+Vés fins el tresor
+i obre el pergamí
+d'un món antic
+i fosc.
+Un raig de sol m'entra pel front.
+Se m'encén l'espelma
+i se me'n va la son.
+Un tros de fum surt del meu nas.
+Jo et dono l'esquena mentre tu te'n vas.
+Dolça com l'anís.
+Ets d'ànima gris.
+Guarda-me'n un tros
+i em faràs feliç.
+El teu país ho és tot.
+Un raig de sol m'entra pel front.
+Se m'encén l'espelma
+i se me'n va la son.
+Un tros de fum surt del meu nas.
+Jo et dono l'esquena mentre tu te'n vas.
+END"}
+{"prompt":"", "completion":" 
+Ha esdevingut un problema
+I expressa l’angoixa exempta de culpa
+Podria mirar però no m’atreveixo
+I colpeja amb un mall la fragilitat
+Quatre dies i tantes promeses
+Jo sóc un planeta, la pluja i sirenes
+Jo què més voldria que ser-te d'ajuda
+I donar-te la clau, donar-te la clau
+Ara seré una persona capaç de mirar-te
+I et juro que un dia
+Quan parlis de totes les coses que fèiem
+No et farà cap mal, no et farà cap mal
+Ha esdevingut un dilema
+I deixo que caiguin i es tombin les coses
+Podria parlar però no m'interessa
+I colpejo amb un pal la realitat
+Quatre dies i tantes promeses
+Jo sóc una tomba, silenci i cadenes
+Jo què més voldria que tindre la cura
+I curar-te la sang, curar-te la sang
+Ara seré una persona capaç de mirar-te
+I et juro que un dia
+Quan parlis de totes les coses que fèiem
+No et farà cap mal
+Ara sóc jo la promesa i prometo cuidaré
+I et juro que un dia
+Quan parlis de totes les coses que fèiem
+No et farà cap mal, no et farà cap mal
+No et farà cap mal, no et farà cap mal
+END"}
+{"prompt":"", "completion":" 
+De les coses que m’agraden
+Tu ets la que m’agrada més
+Si alguna cosa et disgusta
+Ja no la repetiré
+Crec que sento alguna cosa
+Que no sé ben bé què és
+Si algun dia m’ho preguntes
+Jo no sé pas què diré
+Ai, si tu plores per mi
+Jo ploro per les coses que no tinc
+Ai, si jo ploro per tu
+Tu plores per les coses que no vull
+De les coses més estranyes
+Tu ets la que m’estranya més
+No m’atreviré a tocar-te
+Però t’atravessaré la pell
+Entraré dins els teus ossos
+I potser sabré com ets
+Si somnies en aranyes
+O somnies amb ocells
+Ai, si tu plores per mi
+Jo ploro per les coses que no tinc
+Ai, si jo ploro per tu
+Tu plores per les coses que no vull
+END"}
+{"prompt":"", "completion":" 
+Fixaràs aquell termini, ni molt d'hora ni molt tard
+Mitges tintes no són bones, decidir-se és complicat
+I es complica aquella vida que tu creies tan senzilla
+Romandries asseguda reflexiva a la cadira
+Però ara és hora d'aixecar-se i espolsar-se les engrunes
+Mentre seies tan tranquil·la van sortir-te les arrugues
+Tu t'omplies tant la boca quan parlaves de ser lliure
+Quina cosa veure't ara, doncs no era tan fàcil viure
+END"}
+{"prompt":"", "completion":" 
+A fora esperen les bèsties horroroses i silvestres
+Oi, quan arriben els vespres tanquem portes i finestres
+Hi ha qui diu que no existeixen però els meus fills insisteixen
+Són criatures estranyes de cua llarga i dues banyes
+Inofensives auguren nits de penombra i obscures
+Horroroses i silvestres fora esperen les bèsties
+END"}
+{"prompt":"", "completion":" 
+Blau era un somni
+Blau eres tu i somniaves
+Deixa que hi torni
+Per un moment
+Però mai en tinc prou
+Amb un de sol
+Jo mai en tinc prou
+Amb un de sol
+Blau era un canvi
+Blau eres tu i canviaves
+Deixa que et vegi
+Per un moment
+Però mai en tinc prou
+Amb un de sol
+Jo mai en tinc prou
+Amb un de sol
+Blau era un vespre
+Blau eres tu i miracle
+Deixa que hi torni
+Per un moment
+Però mai en tinc prou
+Amb un de sol
+Jo mai en tinc prou
+Amb un de sol
+END"}
+{"prompt":"", "completion":" 
+No hi ha res com un estiu
+Tan cru, tan fràgil, tan curt, tan màgic.
+No hi ha res com quan estic amb tu,
+i no és fàcil és cru, és màgic.
+bumbum.
+És un trofeu aquesta cicatriu,
+és un trofeu t’agrada?
+La meva sang baixava com un riu,
+soc aquí dins, m’agafes?
+És un drama aquesta situació.
+Vull sentir-me com el primer cop.
+Com la mel a sobre del teu cos.
+He tingut aquesta sensació.
+He tingut aquesta sensació.
+bumbum.
+És un tresor la nostra relació.
+És un tresor t’agrada?
+És que sinó no aguantaria això.
+Tu com ho veus, m’agafes?
+No hi ha res com quan et tinc amb mi i em parles,
+i em dius, i em calles.
+N’hi ha prou amb un sospir tan suau, tan bàsic, tant buit, tan màgic.
+Aquesta sensació a sobre del teu cos no té comparació.
+Aquesta sensació a sobre del teu cos no té comparació.
+No té comparació.
+bumbum (x5)
+END"}
+{"prompt":"", "completion":" 
+M'encega
+No me'n puc estar
+M'enredo i caic
+M’enredo i caic
+M’ensenyes
+On aniré a parar
+I se’m fa tant gran
+Se’m fa tant gran
+És tan fina aquesta línia
+que separa dos espais
+Si tu estàs en una platja
+jo estic a l'altre costat
+M'encega
+Perquè és massa brillant
+I em quedo en blanc
+Em quedo en blanc
+M’ensenyes
+Que això sembla un final
+M’enredo i caic
+M’enredo i caic
+És tan fina aquesta línia
+que separa dos espais
+Si tu estàs en una platja
+jo estic a l’altre costat
+És tan fina aquesta línia
+que separa dos espais
+Si tu estàs en una platja
+jo estic a l’altre costat
+END"}
+{"prompt":"", "completion":" 
+Ja sé que si fos per tu tots els arbres floririen 
+Tal com fan els ametllers i la por no existiria 
+Apareix el cavall blanc i del no-res una guspira 
+Ja sé que si fos per tu tots els arbres floririen 
+Què faria o què faré, què diré o què diria 
+És totalment diferent 
+Si és avui o un altre dia 
+Què faria, què diria, què diré 
+La guspira ve del cel, el cavall ve de la terra 
+Oh fantasma desterrat sóc només ànima en pena 
+Apareix el cavall blanc i del no-res una guspira 
+Ja sé que si fos per tu tots els arbres floririen 
+Què faria o què faré, què diré o què diria 
+És totalment diferent si és avui o un altre dia 
+Què faria o què faré, no ho se
+END"}
+{"prompt":"", "completion":" 
+Què faig si m'ofega la calma?
+Necessito explicar-t'ho a tu.
+Me'n vaig però no puc anar gaire lluny.
+Cel clar, surto fora de casa
+que cau a trossos al meu damunt.
+Perdut acostumo a trobar-te a tu.
+Cel clar, te m'acostes a contrallum,
+tancat m'imagino la platja.
+Perdut acostumo a trobar-te a tu.
+Em quedes tu,
+em quedes tu.
+Què faig quan m'obliga la pausa?
+Necessito mirar-te als ulls.
+Ja saps que tu em dones tot el que vull.
+Cel clar, surto fora de casa
+que cau a trossos al meu damunt.
+Perdut acostumo a trobar-te a tu.
+Cel clar, te m'acostes a contrallum,
+tancat m'imagino la platja.
+Perdut acostumo a trobar-te a tu.
+Cel clar, te m'acostes a contrallum,
+tancat m'imagino la platja.
+Perdut acostumo a trobar-te a tu.
+Em quedes tu,
+em quedes tu.
+END"}
+{"prompt":"", "completion":" 
+Primer era el clavell del seu anhel de ser embruixada
+Desprès de la destral vingué la forca i la gebrada
+Després era un volcà i el monstre que ens alimentava
+Ferit va desplomar alimentant el riu de lava
+Va arribar la primavera i amb ella un estiu encès
+Era nova la bandera però vell era el seu reflex
+Més tard ja no era ella i es va penjar la seva mare
+I el dol va ser molt llarg dut en secret a dins de casa
+I el mal que és capriciós es va quedar amb la seva cara
+I el cos incinerat dut en secret a dins de casa
+Va arribar la primavera i amb ella un estiu encès
+Era nova la bandera però vell era el seu reflex
+END"}
+{"prompt":"", "completion":" 
+Incansable avança
+i no s'adona del que passa més enllà.
+Ell sempre treballa
+i és que ni tan sols s'atura per dinar.
+No t'arrosseguis més
+i deixa de sembrar,
+que en aquesta terra
+ja res hi creixerà.
+Com el pas de l'aigua,
+corre com un infant, lleuger, com abans.
+Corre com abans.
+Ja prou de nostàlgia.
+Són les teves eines del segle passat.
+Eines, utensilis i pertorbacions
+que ja s'han dissipat.
+No t'arrosseguis més
+i deixa de sembrar,
+que en aquesta terra
+ja res hi creixerà.
+Com el pas de l'aigua,
+corre com un infant, lleuger, com abans.
+Corre com abans, lleuger, com abans.
+Corre com abans.
+END"}
+{"prompt":"", "completion":" 
+I si encara respires travessarem els marges
+I quan tu ja no aguantis més, doncs que respirin els altres
+I que descansi el rei difunt i el meu lament
+Silenci tan profund
+Tu mataries un home per la vida d'un altre?
+Es tan pura la sang d'un nen que li tremolen les galtes
+I que descansi el rei difunt i el meu lament
+Silenci tan profund
+Que descansi el rei difunt i el meu lament
+Silenci tan profund
+I si encara respires travessarem els marges
+I quan tu ja no aguantis, més doncs que respirin els altres
+END"}
+{"prompt":"", "completion":" 
+Ei, sóc al bell mig d'una tempesta
+Desorientat entre elements
+M'aturo momentàniament
+Ei, que si t'ho dic és perquè ho sento
+I que si ho sento és perquè ho sé
+I em precipito en un desert
+I miro com vas
+i miro com véns
+diguem-ho com si fos un estrany
+I miro com vas
+i miro com véns
+Diguem-ho com si fos un estrany
+Ei, que no sabria bé com fer-ho
+faria més de mil intents
+I ho provaria un cop més
+Ei, que si t’ho dic és perquè ho sento
+I que si ho sento és perquè ho sé
+I que saber-ho és un turment
+I miro com vas
+I miro com véns
+Diguem-ho com si fos un estrany
+I miro com vas
+I miro com véns
+Diguem-ho com si fos un estrany
+END"}
+{"prompt":"", "completion":" 
+D'aquella font un rajolí 
+Anar a parar als teus llavis 
+D'aquella estrella a l'infinit 
+Entre matolls de romaní 
+Neix una flor espinada 
+Tu de genolls i penedit 
+Seràs aquell que emprèn el vol 
+I al mateix temps es queda sol 
+Que ho prova tot però perd el nord 
+Que puja al tren però no hi ha lloc 
+De l'univers indefinit 
+A l'escalfor de casa 
+D'aquella estrella a l'infinit 
+Aquell hivern jo era petit 
+I encara no parlava 
+Perquè si no t'ho hauria dit 
+Seràs aquell que emprèn el vol 
+I al mateix temps es queda sol 
+Que ho prova tot però perd el nord 
+Que puja al tren però no hi ha lloc 
+Seràs aquell que emprèn el vol 
+I al mateix temps es queda sol 
+Que ho prova tot però perd el nord 
+Que puja al tren però no hi ha lloc
+END"}
+{"prompt":"", "completion":" 
+M'agradaria acostar-me a una flor
+Deixar que la flor se m'empassi
+Deixar que la flora m'atrapi
+Deixar que la pluja m'empapi
+M'agradaria mirar cap a munt
+Deixar que la lluna m'abraci
+Deixar que la nit se m'empassi
+Gotes de pluja a la cara
+Una marea que ve cap a mi
+I nedo però ja no fa falta
+Gotes de llum a la galta
+Ara voldrà mira cap a tu
+I ja no caldria paraula
+Ja se que hauria de fer una cançó
+Que parli d'aquesta mirada
+Que parli d'aquí i d'ara
+Que sigui la flor més amarga
+Però és impossible poder capturar
+I de mentre la vida s'escapa
+Potser és que no queda paraula
+Gotes de pluja a la cara
+Una marea que ve cap a mi
+I nedo però ja no fa falta
+Gotes de llum a la galta
+Ara voldria mirar cap a tu
+I ja no caldria paraula
+Ja sé que hauria d’anar cap allà
+Però em quedo a la teva mirada
+Et deixo la porta ajustada
+Però tu te la trobes tancada
+I és impossible poder-te trobar
+I de mentre la vida s’escapa
+Potser és q no queda paraula
+END"}
+{"prompt":"", "completion":" 
+Miro enrere
+I deixo que es faci fosc
+I et tiro fotos
+Només amb la llum del televisor
+Oh no, no sé què hauria de dir
+Oh no
+No sé què esperes de mi  
+Ni sé què hauria de dir-te
+Que vull que et quedis aquí
+Que vull que et quedis a viure
+Cauen fulles  
+Ara em trobo sol
+I sonen motos
+Miro i et busco al retrovisor
+Oh no, tot i que no estàs aquí
+Oh no
+No sé què esperes de mi  
+Ni sé què hauria de dir-te
+Que vull que et quedis aquí
+Que vull que et quedis a viure
+Miro enrere
+I deixo que es faci fosc
+I et tiro fotos
+Només amb la llum del televisor
+END"}
+{"prompt":"", "completion":" 
+Ei, va, diga'm què va passar 
+T'espero aquí, on anirà 
+Tota la misèria que carregues dins 
+I un cel obert imaginat 
+Com un tel a l'inconscient 
+O com un sostre sense fi 
+Aquest mur és de granit 
+Ei, va, diga'm què s'ha trencat 
+Segurament m'he equivocat 
+Però deixa que la pena pugui sortir 
+La teva fe i humanitat 
+Com un tel a l'inconscient 
+O com un sostre sense fi 
+Aquest mur és de granit 
+Com un tel a l'inconscient 
+O com un sostre sense fi 
+Aquest mur és de granit 
+De granit
+END"}
+{"prompt":"", "completion":" 
+Tenir el pensament en blanc és caminar sobre una corda
+L'equilibri és molt traïdor i la idea és invasora
+Hi ha qui després de molt pensar té el cor ple de malaurança
+Dissortat o maleït és el cap que no descansa, que no descansa
+Hi ha qui pensa en l'horitzó hi ha qui ho fa en una cascada
+Hi ha qui mai ho ha aconseguit, hi ha qui té la mà trencada
+L'horitzó, sortosament, no recorda la petjada puix que el vent
+Ho esborra tot i la ruta és oblidada
+Però qui pensa en l'horitzó ben cert és que també pensa, puix
+Que el vent ho esborra tot, pesa tant la indiferència, la indiferència
+Hi ha qui pensa en l'horitzó hi ha qui ho fa en una cascada
+Hi ha qui mai ho ha aconseguit, hi ha qui té la mà trencada
+Hi ha qui pensa en l'horitzó hi ha qui ho fa en una cascada
+Hi ha qui mai ho ha aconseguit, hi ha qui té la mà trencadaEND"}
+{"prompt":"", "completion":" 
+Ai, no ha canviat tant la història
+el temps ha convertit el temps
+en boira
+Ai, quan deu fer que no plores
+avui farem deixar passar
+les hores
+I de mentres escombro el cel
+demà serem fora
+sota una lluna de mel i estels
+encara és molt d'hora
+no anem a dormir mai més
+sota una lluna de mel i estels
+Ai, ja sé que també ho penses
+i també sé que no has volgut
+dir res
+Ai, la vida no m'espera
+i el temps va convertint les flors
+en pedres
+I de mentres escombro el cel
+demà serem fora
+sota una lluna de mel i estels
+encara és molt d'hora
+no anem a dormir mai més
+sota una lluna de mel i estels
+END"}
+{"prompt":"", "completion":" 
+Faig una llista del que més m’estimo
+De la roba que em poso i la de més la tiro
+Faig el recompte de tot el que em passa
+I m’adono molt tard
+Que ets la joia més cara
+ 
+I per fi el que em fa feliç
+Ho tinc i vaig mar endins
+Faig un mapa de senyals marcades
+Perquè busco els llocs on tu abans estaves
+Si no t’hagués perdut em voldries encara?
+I m’adono molt tard
+Que ets la joia més rara
+I per fi, el que em fa feliç
+Ho tinc i vaig mar endins
+I per fi el que em fa feliç
+Ho tinc i vaig mar endins
+END"}
+{"prompt":"", "completion":" 
+Espera’m, és moment
+Perquè tens pressa?
+Espera’m, que jo mai més
+I tu per sempre
+Sé que últimament no ens veiem gaire
+Tanmateix diria que estem bé
+Jo sento l’alta densitat de l’aire
+Kevin, ja no puc més
+Com es possible equivocar-se constantment?
+Kevin, molt malament
+I encara em queden deu mil nusos per desfer
+Per desfer, per desfer, per desfer
+Resa’m, com si fos Déu
+O com els àngels
+Resa’m, només sóc teu
+I no m’espanta
+Vols dir que no n’han fet un gra massa?
+Francament diria que ho faig bé
+I vaig darrere de les teves passes
+Kevin, ja no puc més
+Com és possible equivocar-se constantment
+Kevin, molt malament
+Perquè deu ser que endevinar-te no es pot fer?
+No es pot fer, no es pot fer, no es pot fer
+Kevin, molt malament
+Kevin, ja no puc més
+Kevin, molt malament
+Kevin, ja no puc més
+END"}
+{"prompt":"", "completion":" 
+L’amor és un parc
+L’amor és un pàrquing
+L’amor és el foc
+L’amor és el càstig
+L’amor és un port
+L’amor és un barco
+L’amor és esport
+L’amor és el bàsquet
+L’amor és intens
+L’amor és fantàstic
+L’amor és el sol
+L’amor és un càmping
+L’amor és un tot
+L’amor som nosaltres
+L’amor som tu i jo
+L’amor ets tu
+Ara estic amb tu i et veig diferent
+No sé com ho fas però m’ho fas tan bé
+L’amor és un parc
+L’amor és un pati
+L’amor existeix
+L’amor no s’acaba
+L’amor és el cel
+L’amor és la platja
+L’amor és un llac
+L’amor és salvatge
+L’amor és la nit
+L’amor és mirar-te
+L’amor és el sol
+L’amor és un càmping
+L’amor som els tres
+L’amor som nosaltres
+L’amor som tu i jo
+L’amor ets tu
+Ara estic amb tu i et veig diferent
+No sé com ho fas però m’ho fas tan bé
+END"}
+{"prompt":"", "completion":" 
+M'he rendit al seu encanteri, no diré que no em van avisar
+Pobre del que s'acosti a ella sucumbint al misteri amagat
+Era massa fort, era massa fort
+Tu clava'm la daga al coll que jo abandonaré el cos
+Tu clava'm la daga al coll que jo abandonaré el cos
+M'he rendit al seu Evangeli, no t'ho he dit però una força animal
+Fent servir la seva energia se m'ha endut i ara no sé tornar
+Era massa fort, era massa fort
+Tu clava'm la daga al coll que jo abandonaré el cos
+Tu clava'm la daga al coll que jo abandonaré el cos
+Tu clava'm la daga al coll que jo abandonaré el cos
+Tu clava'm la daga al coll
+END"}
+{"prompt":"", "completion":" 
+Beneïràs la mel que surti d'aquest rusc
+Recolliràs els fruits d'haver sigut tan just,
+enguany
+Maleiràs l'espai que hi ha entre tu i la mel
+quan el desert que tens a la mirada és pla
+fa mal.
+Doncs res, que tal faràs,
+tal trobaràs
+No em facis cas
+Tu jugues a aquell joc d'aquí no passa res
+Sé que estàs malament però no se't nota gens
+I és estrany
+Maleïràs l'espai que hi ha entre tu i el gel
+Quan el desglaç que tens a la memòria és llarg
+fa mal.
+Doncs res, que tal faràs,
+tal trobaràs
+No em fagis cas
+Doncs res, que tal faràs,
+tal trobaràs
+No em fagis cas
+END"}
+{"prompt":"", "completion":" 
+Duia l'ànima per fora 
+Innocència malaltissa 
+Desenganys i despropòsits 
+De vegades jo voldria 
+Arrancar-vos l'arrogància 
+Proclameu-me reina hereva 
+Regaleu-me la victòria 
+Recordeu-me tal com era 
+I una llarga ´alfombra´ d'ossos 
+Patrimoni de violència 
+I és que encara que no pugui 
+Estimar-vos jo voldria 
+Tant amarga 'despedida´ 
+Que us serveixi cada dia 
+Sóc la llàgrima que salta 
+Sobre de la terra humida
+END"}
+{"prompt":"", "completion":" 
+Llàgrima sobre el coixí
+Finestra i cadira
+Què em queda per descobrir?
+I gira i gira
+Dono voltes sobre mi
+I noto que arriba
+La boira de cada matí
+Encara puc anar més lluny
+Però vull que m’ho demanis tu
+Encara puc anar més lluny
+No recordo quan va ser
+T’enyoro i ferida
+Plores perquè no t’entenc
+I gira i gira
+Sé que sóc un inconscient
+I encara m’estimes
+No sé què passarà després
+Encara puc anar més lluny
+Però vull que m’ho demanis tu
+Encara puc anar més lluny
+END"}
+{"prompt":"", "completion":" 
+Qui ha mirat a través d'ell la mirada li canvia
+Ja mai més aixeca cap, ja mai més a ningú estima
+I al que arribi fins allà sabrà que tot era mentida
+De resposta Jesucrist, de pregunta precipici
+De la missa funeral, de la viuda cementiri
+Que si un dia arribes tard bufa fort i apaga un ciri
+Si la terra on has viscut se t'empassa i et desmunta
+I reparteix a parts iguals el que queda dels teus somnis
+Però ressalta les virtuts i reforça aquella idea
+Transformant els teus bocins o deixant-los que es podreixin
+La capella universal on no hi caben les mentides
+Aquest Déu és immortal però no cura les ferides
+De la missa funeral de la viuda cementiri
+Que si un dia arribes tard bufa fort i apaga un ciri
+END"}
+{"prompt":"", "completion":" 
+Dintre teu, densa
+Com la neu freda
+Sincerament t’ho deia
+Sincerament
+Més enllà un mar de mentides
+Setmanes i dies
+Més enllà un mar de mentides
+T’enfades i crides
+Més enllà
+Hi cap l’hivern
+Hi cap l’hivern a dintre teu
+Entretemps, vespre
+Dintre teu tempesta
+Sincerament, on érem?
+Sincerament
+Més enllà un mar de mentides
+Setmanes i dies
+Més enllà un mar de mentides
+T’enfades i crides
+Més enllà
+Hi cap l’hivern
+Hi cap l’hivern a dintre teu
+END"}
+{"prompt":"", "completion":" 
+Tocaven les deu 
+Era un dissabte 
+Somiava despert 
+O era un miratge 
+Vivia en un son 
+Inexplicable 
+Dormia en un tronc 
+Movien arbres 
+Movien arbres 
+Diria que el sol 
+M'enlluernava 
+Diria que el cel 
+Semblava un altre 
+Vivia en un son 
+Inexplicable 
+Dormia en un tronc
+Movien arbres
+END"}
+{"prompt":"", "completion":" 
+Més a prop de les estrelles
+El primer raig del matí
+Sento que obres les finestres
+I em preguntes si he dormit
+Jo t'explico que com sempre
+Em desperto a mitjanit
+Em passejo per la casa
+I tu em dius que m'has sentit
+M'expliques les teves coses
+Ja no sé en quin dia estem
+Que de flors que neixen mortes
+En tenim un calaix ple
+Jo t'explico que com sempre
+Em desperto a mitjanit
+Em passejo per la casa
+I tu em dius que m'has sentit
+END"}
+{"prompt":"", "completion":" 
+Ni la lluna més intensa 
+Pot fer clara aquesta nit 
+Una frase lapidària 
+Se t'enfonsa dins el pit 
+Necessites la sentència 
+Menyspreant el devanir 
+Manipules amb destresa 
+Les paraules que no has dit 
+Seduït per la tristesa 
+Segadora t´has marcit 
+I et rondina la mestressa 
+Quan et veu tan ensopit 
+La ferum de naftalina 
+Que desprèn el teu abric 
+D´un aspecte lamentable 
+Dels parracs i descosits
+END"}
+{"prompt":"", "completion":" 
+Si em poguessis explicar
+Quantes coses em diries
+Dormiries en un parc
+Potser mai despertaries
+Una cosa que no entenc
+I que tu m’explicaries
+És per què fem cas al temps
+No m’és fàcil acceptar
+Que tu no en tens
+Si no poguessis notar
+El dolor que tens a dintre
+Dormiries estirat
+Entre lliris, margarides
+Es difícil explicar
+L’altre dia d’on venies
+Quan venies enfadat
+Perquè em costa preguntar-te
+Tu com estàs?
+Si poguessis estimar
+Quantes coses canviarien
+Ens hauríem estimat
+I no te’n recordaries
+T’asseuries en un parc
+Deixaries passar els dies
+I parlant amb un estrany
+Et veuries reflexat
+En un mirall
+END"}
+{"prompt":"", "completion":" 
+Si tu m’ho demanes jo et demano perdó
+Deixo passar el dia i em sento pitjor
+Deixes que me’n vagi però t’abraces a mi
+Vull que m’ho demanis com si fos aquí
+Com si fos aquí, com si fos ahir
+Vull que m’ho demanis com si fos aquí
+Com si fos aquí, com si fos ahir
+Si tu m’ho demanes t’ho demano de genolls
+Deixo passar el dia i perdo la raó
+Sento que t’allunyes però t’estires amb mi
+Vull que m’ho demanis com si fos aquí
+Com si fos aquí, com si fos ahir
+Vull que m’ho demanis com si fos aquí
+Com si fos aquí, com si fos ahir
+Em penso una paraula i te la dic a foc
+Crema tant de pressa com a poc a poc
+Em penso una paraula i te la dic a foc
+Crema tant de pressa com a poc a poc
+Com a poc a poc
+Si tu m’ho demanes t’ho demano si us plau
+Ja sé que voldries que et deixés en pau
+Deixes que me’n vagi però t’abraces a mi
+Vull que m’ho demanis com si fos aquí
+Com si fos aquí, com si fos ahir
+Vull que m’ho demanis com si fos aquí
+Com si fos aquí, com si fos ahir
+END"}
+{"prompt":"", "completion":" 
+M’aixeco del terra
+Ben amunt, ben amunt
+I adreço l’esquena
+Camino molt recte
+Cap a tu, cap a tu
+Seria perfecte
+Perquè em costa reconèixer
+Que estimar-te no se’m dona bé
+O dec ser jo que estimo diferent
+Però deixa que m’estrelli contra el dia més gris
+Que si jo m’ofego, tu t’ofegues amb mi
+M’aixeco com sempre
+Ben amunt, ben amunt
+Perdona l’espera
+Camino molt serio
+Cap a tu, cap a tu
+O això és el que em penso
+Ara vull desaparèixer
+I sentir que se m’emporta el vent
+I sentir que se m’emporta el vent
+Però deixa que m’estrelli contra el dia més gris
+Que si jo m’ofego, tu t’ofegues amb mi
+M’aixeco del terra
+Ben amunt, ben amunt
+I adreço l’esquena
+Camino molt recte
+Cap a tu, cap a tu
+Seria perfecte
+END"}
+{"prompt":"", "completion":" 
+Ei, què fas? Què dius? Et quedes aquí?
+No sé si val la pena que me’n vagi a dormir
+Què dius que fas? Et quedes o te’n vas?
+Ei, què fas? Què dius? Que plores o rius?
+Renegues una estona però per ella et desvius
+Què dius que fas? Sospires amb el nas
+Plores o rius
+A fora de nit
+Ei, quan fa que véns? No t’agrada gens
+Aguantes la mirada i desafies el temps
+Que tens, que pots i t’ho jugues a sorts
+Ei, què fas? Què dius? Que plores o rius?
+Renegues una estona però per ella et desvius
+Què dius que fas? Et quedes o te’n vas?
+Plores o rius
+A fora de nit
+END"}
+{"prompt":"", "completion":" 
+Se’t veu primavera a la pell
+A tu la primera
+Tu creu-me si et dic que també
+Això em desespera
+Potser quan comenci a fer bo
+Aflorin els teus sentiments
+O et surti la fera
+D’aquesta manera
+A tu la primera
+Que algú s’apiadi de mi
+Tanta carretera
+Potser quan no pugui sortir
+D’aquesta manera
+Potser quan comenci a fer bo
+Explotin tots els elements
+I la primavera
+D’aquesta manera
+Se’t veu primavera
+D’aquesta manera
+A tu la primera
+Potser és que ja m’he acostumat
+Potser no t’ho esperes
+Espero que t’hagi agradat
+A tu la primera
+Potser quan comenci a fer bo
+Aflorin els teus sentiments
+I la primavera
+D’aquesta manera
+Se’t veu primavera
+D’aquesta manera
+A tu la primera
+END"}
+{"prompt":"", "completion":" 
+Si dibuixo una arbre negre
+Significa el teu dolor
+Tens la flor de la paciència
+Jo canvio de color
+Ja fa dies que no hi penso
+També dies que no hi sóc
+Digue’m que serà de mi
+Quan arribin temps millors
+Digue’m què serà de mi
+Digue’m què serà de mi
+Si t’escric amb bona lletra
+Significa que tinc por
+Potser si un dia em faltessis
+Aprendria la lliçó
+Ja fa dies que no hi penso
+També dies que no hi sóc
+Digue’m que serà de mi
+Quan arribin temps millors
+Digue’m que serà de mi
+Quan es pongui el sol
+Digue’m què serà de mi
+Si t’enyoro i no et coneixo
+Significa la tardor
+Si per tu jo m’interesso
+Es per que em batega el cor
+Ja fa dies que no hi penso
+També dies que no hi sóc
+Digue’m que serà de mi
+Quan arribin temps millors
+Digue’m que serà de mi
+Quan es pongui el sol
+Digue’m què serà de mi
+Quan arribin temps millors
+Digue’m què serà de mi
+Quan es pongui el sol
+Digue’m què serà de mi
+END"}
+{"prompt":"", "completion":" 
+Preneu-ne tots d'aquest sermó, la redempció
+Que baixi un àngel que pujo jo
+Pregueu perquè els vostres pecats rebin perdó
+Seràs tu el culpable o seré jo? La redempció
+Seràs tu el que jutgi o seré jo?
+I esclati el judici amb foc i la santa ferida
+I esclati la vida al bosc que la sang regalima
+Qui tingui el sentiment més brut s'arrenqui el cor
+I de glòria eterna sigui la mort
+Talleu-li el cap a aquest traïdor, que el desertor
+Rebi el seu càstig davant de tots, que el desertor
+Pagui fins l'últim dels seus errors
+I esclati el judici amb foc i la santa ferida
+I esclati la vida al bosc que la sang regalima
+I esclati el judici amb foc i la santa ferida
+I esclati la vida al bosc que la sang regalimaEND"}
+{"prompt":"", "completion":" 
+Ei, des de que he arribat que no faig més que donar voltes
+Ei, creus que no he notat que últimament ja no m’escoltes
+Però tot s’arregla molt de pressa quan engegues la banyera
+Regalimen gotes d’aigua i es difumina el teu reflexe
+Ei, sento que m’he perdut en el temps
+Potser per això em quedo una mica més
+Sento que no t’he aprofitat gens
+Ei, des de que he marxat que només penso en una cosa
+Ei, saps que la veritat és que en el fons si que m’importa
+Però tot s’esborra molt de pressa com dibuixos en un vidre
+Regalimen gotes d’aigua i es difumina el teu reflexe
+Ei, sento que m’he perdut en el temps
+Potser per això em quedo una mica més
+Sento que no t’he aprofitat gens
+END"}
+{"prompt":"", "completion":" 
+Tu prenies el sol 
+Se't cremava la pell 
+Apagaves el foc 
+I aturaves el temps 
+Tu no creies en déu 
+Ni pensaves en res 
+Això ja t'ho vaig dir 
+És de nit o de matí? 
+De vegades em veus 
+I t'enfades amb mi 
+Apagaves el foc 
+I callaven els grills 
+De vegades em tens 
+I de vegades no gens 
+Això ja t'ho vaig dir 
+És de nit o de matí? 
+De vegades em veus 
+I t'enfades amb mi 
+Apagaves el foc 
+I callaven els grills 
+De vegades em veus 
+I t'enfades amb mi 
+Apagaves el foc 
+I callaven els grills
+END"}
+{"prompt":"", "completion":" 
+Sents la pluja d'abril,
+com te'n cau sobre un fil.
+Sents la pluja de maig.
+Te'n cau sobre un raig.
+Sóc l'heura que enfila
+entre els mesos, la vida i la mort.
+I el pou que ens ofega no és més
+que l'atzar i la sort.
+Rierol.
+Sents la brisa de juny.
+Tens el cor en un puny.
+Ve tan sec i tan sol
+que rius, però no vols.
+I quan la llegenda es desplegui
+anirem de dol.
+I el sol. Abans que s'apagui,
+ens beurem l'aigua del rierol.
+Rierol.
+END"}
+{"prompt":"", "completion":" 
+I de tant equivocar-me
+I de tant que vaig buscar-te
+Una part era insondable
+De l’amor que vaig donar-te
+I sembla que no pugui ser
+Però no he trobat refugi
+I res del que jo pugui fer
+No crec que t’ajudi
+Vas ser tu la meva gàbia
+De tant suau i fina et tanques
+Una rosa fina i blanca
+Que és la por d’equivocar-me
+I sembla que no pugui ser
+Però no he trobat refugi
+I res del que jo pugui fer
+No crec que t’ajudi
+I de tant equivocar-me
+I de tant que vaig buscar-te
+Una part era insondable
+De l’amor que vaig donar-te
+END"}
+{"prompt":"", "completion":" 
+Això que em portes
+Em fa sentir tan bé
+Que només m'importa
+Que demà me'n portis més
+Però passen les hores
+El sol es va ponent
+Sento la porta
+Però només dura un moment
+Serà un abisme on he caigut
+O el paradís que em dónes tu
+No hi ha fortuna més cruel
+Ni res tant dolç 
+La nit és fosca
+Sé que per a tu també
+En la distància
+O en el ressentiment 
+Però cauen les hores
+La lluna està creixent
+Sento la porta 
+Però només dura un moment
+Serà un abisme on he caigut
+O el paradís que em dónes tu
+No hi ha fortuna més cruel
+Ni res tan dolç
+Serà un abisme on he caigut
+O el paradís que em dónes tu
+No hi ha fortuna més cruel
+Ni res tan dolç
+END"}
+{"prompt":"", "completion":" 
+Si deixem que corri l’aire
+Mentre l’aire va passant
+Se’m congela la mirada
+I es fa enorme aquest instant
+No te nom això que sento
+No hi ha trampa ni veritat
+Soledat
+Amagada sota terra
+Rau perduda en un atzar
+Soledat
+Tinc clavada una paraula
+Agafada de la mà
+Ja no crec que trigui gaire
+Ni que sigui massa tard
+No te nom això que sento
+No hi ha trampa ni veritat
+Soledat
+Tot hi que no es pugui veure
+Tinc una aura de cristall
+Soledat
+Una flor que no vol aigua
+Ni té cap necessitat
+D’una aixeta una cascada
+I mentre l’aire va passant
+No te nom això que sento
+No hi ha trampa ni veritat
+Soledat
+Amagada sota terra
+Rau perduda en un atzar
+Soledat
+END"}
+{"prompt":"", "completion":" 
+Quan arribi el moment,
+tindré clara la ment.
+La família s'acosta
+i també el patiment
+S'ha acabat ser un despreocupat
+i pensar en no res.
+La veritat és que això
+ja em venia d'abans.
+Tant de bo surti bé
+i amb els teus ulls tan grans
+i de tants colors,
+com estrelles té el cel!
+Tant de bo!
+Ets tu qui ho està fent
+i entenc el teu cansament.
+És que és la cosa més clara
+i la més evident.
+S'ha acabat ser un despreocupat
+i pensar amb els peus.
+La veritat és que això
+ja em venia d'abans.
+Tant de bo surti bé
+i amb els teus ulls tan grans
+i de tants colors,
+com estrelles té el cel!
+Tant de bo! 
+END"}
+{"prompt":"", "completion":" 
+Per l'amor de Déu
+diga'm que sempre seré teu
+tiro la pedra, amago el cap
+bótes de pell, terra de blat
+Ja tothom ho sap
+que em sento vell i desmemoriat
+estic aquí mig enterrat
+tinc el temps llarg i el cos cansat
+I si el dia no s'acaba
+de veritat, de veritat
+que em beuré l'aigua sagrada
+Per l'amor de Déu
+diga'm que sempre seré teu
+camino sol, t'abraço gran
+i em sento bé, de tant en tant
+I si el dia no s'acaba
+de veritat, de veritat
+que em beuré l'aigua sagrada
+END"}
+{"prompt":"", "completion":" 
+Ara ets dins la cuina capficada en mil detalls, 
+Amb els colzes a la taula i amb el cap arrepenjat 
+El que donaria per poder-m'hi capbussar 
+O amb només una paraula se n'anés el maldecap 
+I tornar a començar 
+Jo aprendria a caminar 
+I tornar a començar 
+Jo aprendria a caminar 
+Llum de mitja tarda que travessa les parpelles 
+I una fruita tan madura que no es deu poder menjar 
+Ara ets dins la cuina capficada en mil detalls, 
+tan quieta i solitària que no et goso molestar 
+I tornar a començar 
+Jo aprendria a caminar 
+I tornar a començar 
+Jo aprendria a caminar
+END"}
+{"prompt":"", "completion":" 
+Quan arriba el dia groc vol dir que el verd ja s'ha mort
+I embolica que fa fort, era recte i ara és tort
+Va tenir un cop de calor, enterrat sota un pi
+A la sombra està millor, només feia que dormir
+Era recte i ara és tort, no devia estar de sort i
+Embolica que fa fort quan arriba el dia groc
+Va tenir un cop de calor, enterrat sota un pi
+A la sombra està millor, només feia que dormir
+Era recte i ara és tort
+END"}
+{"prompt":"", "completion":" 
+Trenca’m per la meitat
+Gràcies, sóc una imbècil
+I em sento identificat
+Però no em surt
+Perquè és massa complicat
+Com tu
+Difícil d’agafar
+No em surt
+Avisa’m si te’n vas
+Avisa’m i ja està
+Quants cops? Contínuament
+Ja ho sé. No està bé fer-ho
+Quants llocs? On vols anar?
+Jo que sé
+És massa rebuscat
+Com tu
+Difícil d’atrapar
+No em surt
+Avisa’m si te’n vas
+Avisa’m i ja està
+Perquè és massa complicat
+Com tu
+Difícil d’atrapar
+No em surt
+Avisa’m si te’n vas
+perquè és massa complicat
+Com tu
+Difícil d’atrapar
+No em surt
+Avisa’m si te’n vas
+Avisa’m i ja està
+END"}
+{"prompt":"", "completion":" 
+Una llum que es queda
+Una espurna de metall
+Ja fa temps que prego
+Els desitjos més llunyans
+A l'abast
+Una pluja freda
+Quan no hi era què ha passat?
+Si tu hi ets em quedo
+Però no té significat
+Amagat
+Gira’t i digue'm
+Gira’t i digue'm el què
+Gira’t i digue'm
+Digue’m i faré que ho he entès
+Una llum encesa
+Una brisa acariciant
+Una pell vermella
+M’imagino realitats
+A l'abast
+Una llum que es queda
+Una espurna de metall
+Ja fa temps que prego
+Els desitjos més llunyans
+A l'abast
+Gira’t i digue'm
+Gira’t i digue'm el què
+Gira’t i digue'm
+Digue’m i faré que ho he entès
+No hi ha manera
+No sé si et passa igual
+Al teu davant
+Sóc una presència espectral
+No hi ha manera
+No sé si et passa igual
+Al teu davant
+Sóc una presència espectral
+END"}
+{"prompt":"", "completion":" 
+T’estimo com estimen els adolescents
+Despertes una part de mi que no conec
+Coneixes bé les pedres del camí que fem
+Camí que fem
+Faria tantes coses que no sé què fer
+Recordo que et mirava sense esperar res
+I guardo aquesta imatge per quan tu no hi ets
+Quan tu no hi ets
+Somio que estem sols al mig de l'univers
+I volen orenetes a càmera lenta
+I qualsevol preocupació desapareix
+Somio que estem sols al mig de l'univers
+I volen orenetes a càmera lenta
+I qualsevol preocupació desapareix
+Desapareix, desapareix...
+Ressonen les històries que no m’han passat
+Però ja no me’n recordo ni de la meitat
+El nostre ecosistema no té gravetat
+No té gravetat
+Funciono com funcionen els medicaments
+Només em necessites una mica més
+I demà quan et llevis tot estarà bé
+Tot estarà bé
+Somio que estem sols al mig de l'univers
+I volen orenetes a càmera lenta
+I qualsevol preocupació desapareix
+Somio que estem sols al mig de l'univers
+I volen orenetes a càmera lenta
+I qualsevol preocupació desapareix
+Desapareix, desapareix, desapareix...
+END"}

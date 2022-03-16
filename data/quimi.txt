@@ -1,0 +1,3173 @@
+{"prompt":"", "completion":" 
+Al cel blavíssim de Barcelona 
+les nenes riuen i s'enamoren. 
+De la Mar Bella fins a Tres Torres, 
+blanc de gavines, verd de cotorres. 
+Vull passejar amb tu per Barcelona 
+com fan els senyors i les senyores. 
+Donem-nos la mà com bons amants ; 
+anem a besar-nos pels terrats. 
+Dona bonica, sexy i bufona, 
+l'amor té un nom i és Barcelona.END"}
+{"prompt":"", "completion":" 
+A mitjanit encara és clar
+si et tinc al costat vestida de paisà.
+Hola Maite, sí; t'estimo,
+oh! formosa Maite.
+Hola Maite; sí, sóc jo,
+floreta de Sants.
+Darrera el pit hi tinc un cor,
+i al cor un racó reservat per a tu.
+Duc un tamboret però el duc perquè hi segui Sant Josep.
+Hola Maite, oui! Je t'aime,
+oh! formosa Maite.
+Hola Maite; sí, sóc jo,
+floreta de Sants.
+Hola Maite, sí; t'estimo,
+oh! formosa Maite.
+Hola Maite; sí, sóc jo
+i ja està tot dit.
+END"}
+{"prompt":"", "completion":" 
+No sé què esperes de mi, 
+poca cosa t´he de dir 
+i potser no ho vols sentir. 
+Dels àrabs el paradís, 
+dels catòlics el menjar, 
+tot es pot aprofitar. 
+  
+Naufraga el matí, considera´m teu, 
+no hi ha pressa, anem a peu. 
+  
+No fa pomes el pruner, 
+ni fan versos els soldats 
+ni avortaments el bisbat. 
+Vine a veure´m i riurem 
+que a plorar hi serem a temps, 
+el ganivet a les dents. 
+  
+Dius que he de ser astut 
+com ho és el cantant 
+de l´orquestra Tururut. 
+Naufraga el matí, 
+la vida és així; 
+música per fer coixí. 
+  
+Si véns amb mi et portaré 
+a un magnífic paradís 
+que han muntat al tercer pis. 
+No hi ha pressa, anem a peu, 
+aquesta nit no dormim; 
+no és gran cosa, però sóc teu.
+END"}
+{"prompt":"", "completion":" 
+Sant Marc, santa Creu, santa Bàrbara i sant Iu;
+oh glòria!
+Sant Gil, sant Abdó, sant Blai i sant Feliu;
+del Cel.
+El passat s'engreixa i el futur es fa prim;
+t'enyoro!
+Mentre el poeta negocia un pressupost;
+oh glòria!
+Santa Elisabet, sant Felip i sant Francesc
+de Paula!
+Santa Juliana, santa Elena i sant Andreu;
+Adéu!END"}
+{"prompt":"", "completion":" 
+Veig el passat a les estrelles, canto a l'atzar cançons estranyes. Que n'és, de
+trist, veure com marxes en aquells trens pudents, tristos i rònecs! M'agradaria ser
+un poeta, efervescent com la gasosa,i confegir-te uns goigs pagans, com un
+beneit ballar al mig de l'andana.
+Ai, nineta, que ets bonica! Com t'estimo, floreta, com m'agrades! Ai, rateta, dolça
+aimada! Cau la pluja a la terra perfumada.
+Tu ets l'excepció protagonista de les prosaiques experiències que configuren
+l'existència, aquest anar fent el ridícul diari.El blat de moro se'ns eixuga, se'ns
+eixuga la terra entera;  barregem-nos amb el bestiar quan va a la platja amb
+aquella fal·lera.
+Ai, nineta, que ets bonica! Com t'estimo, floreta, com m'agrades!
+Tot revisant l'ortografia, canvio les comes de puesto; sempre procuro que
+m'entenguin, però si no m'entenen no m'hi emprenyo. I el diumenge vindré a
+trobar-te, malalt d'una malura tendra; d'aperitiu, olives negres, i vins de masos
+que els hereus es van malvendre.
+Ai, nineta!, no existeixes però et somio;floreta, com m'agrades!
+Ai, nineta!, dolç espectre; cau la pluja a la terra
+perfumada.
+ 
+END"}
+{"prompt":"", "completion":" 
+Lluny del camí,
+potser hi trobaràs un món millor 
+i si és pitjor,
+potser encara et tornen els calés. 
+Paraules sense sentit i carreteres sense asfaltar; 
+si et busco i no et puc trobar, 
+puc arribar a ser molt perillós. 
+  
+Vine al racó, al meu racó dolç i assolellat, 
+hi ha rius de gent a les voreres
+cridant el teu nom. 
+Vine al racó, al meu racó si estàs preparat; 
+crema la música a la pira de les emocions. 
+Vine al racó, al meu racó,
+no et farà cap mal; 
+deixa´t portar pel ritme antic
+que marquen els tabals. 
+Vine al racó, al meu racó amagat i estrany; 
+hi ha sons asiàtics
+que per ser tu tocarem de franc 
+(i no t´espantis que per ser tu tocarem de franc). 
+  
+Lladres mudats i policies esparracats, 
+licors moderns mesclats amb drogues de l´antigor. 
+Si et quedes al meu costat,
+no et puc prometre cap paradís, 
+però si et busco i no et puc trobar, 
+puc arribar a ser molt perillós. 
+  
+Nits estranyes, bogeria i febrades. 
+Et trobo a cada somni de les nits perfumades.END"}
+{"prompt":"", "completion":" 
+Al tanto que va de canto, va de canto però és genial; ho sap tot el papanates,
+però les fot totes al pal.
+Calma, molta calma, és l'únic que serveix per estar calmat. Nous misteris, nous
+paisatges i nous prats on portar el bestiar a pasturar.
+T'he deixat el dinar a taula, afanya't que es refredarà;amanida d'abraçades i
+entremesos de petons. Al tanto que va de canto, acrobàtica cançó;sé que soc
+irresistible però estima'm amb contenció.
+La ficció no és altra cosa que un acte desesperat de lluita contra el tedi i la freda
+realitat. Les memòries d'un turista, aventures d'un soldat. Saludem els egipcis,
+que predeien els eclipsis,cops d'aire, ossos de pollastre, gestos acrobàtics,
+gorres de paper.
+Al tanto que va de canto, un mantra fenomenal, inventari de silencis des de l'any
+de la picor. Al tanto que va de canto, va de canto però és genial.
+END"}
+{"prompt":"", "completion":" 
+'Ales de colibrí' i subtileses per l´estil 
+gasta el poeta fi per a amanir belles cançons, 
+(...i el públic ho troba 'sublim'). 
+Tot provant de fer-ho be 
+(que aspirem a ser bons com ell), 
+en Puntí fa 'marramiau' i jo canto a Sabadell 
+(... i en Sisa folla com un foll). 
+'Ales de colibrí'; que et donguin per l´engonal; 
+a tu, a qui et va parir i a la concòrdia universal, 
+i a la concòrdia universal.END"}
+{"prompt":"", "completion":" 
+Epitafi:
+“La vida està sobrevalorada”.
+Amb qui parlo?
+Qui està escoltant les meves mancances?
+Els inútils del futur s’esbraven
+a places que urbanistes maldestres
+construeixen
+sobre les tombes de màrtirs oblidats.
+Amb qui parlo?
+Amb muntanyes on corren els núvols
+i amb rieres
+que creuen solituds perfumades.
+El cap ple de preguntes obtuses
+que el vent glaçat farà evaporar-se,
+i el cos abandonat a la mandra,
+blasfèmies més velles que l’anar a peu.
+Amb qui parlo?
+END"}
+{"prompt":"", "completion":" 
+Vols que ho digui? dolç amor; la nit es mor de riure i fa calor. 
+Fred, calent, trist i content; un cas de molt difícil comprensió. 
+  
+Artistes plàstics coberts de fang: 
+noms i cognoms i encara més cognoms. 
+Més alt, més fort i més saturat, 
+i les paraules semblen de cartró. 
+  
+Plàstics rústics, brètols amb elàstics, 
+taules coixes, obsessions i angoixes... 
+Dius que em deixes, fotos a les lleixes... 
+Veus convexes, relacions complexes... 
+  
+Amor gimnàstic, trosset de cel 
+amb cabell d´àngel i gotes de mel. 
+Som aborígens d´un món perdut... 
+Els vencedors criden més que els vençuts. 
+Si tu no ho saps, potser jo ho sabré; 
+no hi som, no hi érem i mai no hi serem. 
+Amor gimnàstic per a tu i per a mi... 
+Però abans de tot hauríem d´existir. 
+  
+Més alt, més fort i més saturat 
+i les paraules semblen de cartró. 
+Amor gimnàstic, trosset de cel 
+amb cabell d´àngel i gotes de mel. 
+Artistes plàstics coberts de fang: 
+noms i cognoms i encara més cognoms. 
+Amor gimnàstic per a tu i per a mi... 
+però abans de tot hauríem d´existir.END"}
+{"prompt":"", "completion":" 
+No vull vestir-me per a sortir 
+i no em vull afaitar, 
+ja sé que tu només em vols 
+per a anar a ballar. 
+  
+Per a anar a ballar, 
+no tinc sabates de xarol; 
+les reunions m'espanten, 
+quedem-nos a la vora del foc. 
+  
+No, no, no; 
+no ho aconseguiràs, 
+que allà on va la gent 
+no m'hi trobaràs. 
+  
+No, no, no; 
+queda't al meu costat, 
+que allà on balli la gent 
+no m'hi trobaràs. 
+ END"}
+{"prompt":"", "completion":" 
+Àngels que s'apareixen 
+mostres d'un altre món; 
+Àngels a qui coneixes, 
+ombres d'un temps millor.END"}
+{"prompt":"", "completion":" 
+Aparteu les criatures! ... que avui ho entenc tot; 
+tot raonant amb sil·logismes 
+com en els temps antics: 
+si allò és així i això és com allà, 
+doncs podrem deduir-ne fàcilment que això és aixà. 
+Doncs no hi ha res que s´escapi a la meva comprensió 
+sobretot després del canvi a la nova medicació; 
+ni els conflictes més obtusos de la política local, 
+ni els enigmes psicològics de les disfuncions sexuals. 
+Aparteu les criatures!... que el tiet Josep fa el pi; 
+que no ens passi com a Gràcia, aquell any per Sant Medir... 
+...que ho va fer entre la canalla i hi va haver trenta ferits, 
+alumnes de les Clarisses i del Pare Manyanet. 
+I ara prou de collonades, abasteu-me els comprimits 
+i aparteu les criatures! ...que avui ho entenc tot.END"}
+{"prompt":"", "completion":" 
+Aparteu les criatures! ... que avui ho entenc tot;
+tot raonant amb sil·logismes
+com en els temps antics:
+si allò és així i això és com allà,
+doncs podrem deduir-ne fàcilment que això és aixà.
+Doncs no hi ha res que s´escapi a la meva comprensió
+sobretot després del canvi a la nova medicació;
+ni els conflictes més obtusos de la política local,
+ni els enigmes psicològics de les disfuncions sexuals.
+Aparteu les criatures!... que el tiet Josep fa el pi;
+que no ens passi com a Gràcia, aquell any per Sant Medir...
+...que ho va fer entre la canalla i hi va haver trenta ferits,
+alumnes de les Clarisses i del Pare Manyanet.
+I ara prou de collonades, abasteu-me els comprimits
+i aparteu les criatures! ...que avui ho entenc tot.
+END"}
+{"prompt":"", "completion":" 
+Avions que volen,
+creuant el cel amunt i avall
+amb gent bevent
+taronjades amb un gust estrany.
+Tornem a casa
+amb barrets mexicans.
+Cancún, París;
+…i que bonic és viatjar!
+Voleu anar amb bicicleta?
+No, ai no!
+Que és feixuc el pedalar!
+Enxubats en furgoneta?
+No, ai no!
+És una mica vulgar.
+No, ai no, ai no, morena;
+que avorrit és reptar.
+No, ai no, ai no, morena;
+jo només vull volar.
+Si lloguem una Lambretta?
+No, ai no!
+ens hauríem de posar un casc.
+I anar amb el ferri fins a Creta?
+No, ai no!
+que em marejo en veure el mar.
+No, ai no, ai no, morena;
+que avorrit és reptar.
+No, ai no, ai no, morena;
+jo només vull volar.
+Oh, avions, avions, joguines
+amb els seus comandants;
+ensaïmades i peluixos,
+i equipatges de mà.
+END"}
+{"prompt":"", "completion":" 
+Uó uó, minúscula fi del món; quina mandra! Vine amb mi i et tractaré de vós. No
+m'entens, potser no em sé explicar, és difícil; i el passat no acaba de passar.
+No t'entenc i tu no m'entens però és tan emocionant;som un bestiar sentimental,
+mil voltes humiliat.Res no és massa bo, massa bonic ni massa estimulant;ens ho
+mereixem, ens ho hem guanyat, i ho volem al comptat.
+Uó uó, els antípodes: eucaliptusi deserts poblats per marsupials.No ho entenc,
+tot és molt estrany i no lliga;que pesats, els ídols del passat!
+Érem massa joves, massa inexperts, tot just sortits de l'ou,i una música salvatge
+i bestial de cop ens va abduir. Ara som soferts i resistents, ens hi hem anat
+tornant;diem mots eixorcs amb accents antics de muntanyes ancestrals.Jo no
+t'entenc i tu no m'entens però és tan emocionant.Som un bestiar sentimental, mil
+voltes humiliat.Res no és massa bo, massa bonic ni massa estimulant;ens ho
+mereixem, ens ho hem guanyat, i ho volem al comptat.
+END"}
+{"prompt":"", "completion":" 
+Cocoricó!
+que guapa que ets…
+amb dues cames que t'arriben fins als peus.
+Els bípedes aquí
+i els quadrúpedes allà,
+octòpodes més lluny
+i els miriàpodes enllà.
+Cocoricó!
+pensant en tu,
+m'invento coses que no tenen cap sentit:
+un lluç sense barret
+i dos ànecs assassins;
+un toro de cartró
+amb un torero italià;
+però si em poso seriós
+hauré d'admetre que sóc
+un bípede feliç
+al país del tripartit.
+Farem trampes, tot s'hi val…
+plego, és hora de dinar.
+END"}
+{"prompt":"", "completion":" 
+Sóc innocent i bon cristià; 
+no he esperat mai grans respostes 
+perquè, sincerament, 
+no tinc grans preguntes a fer. 
+Ploro per tu i plores per mi, 
+tothom té algú per qui plorar; 
+hi ha massa colorants al vi 
+i a la vida massa dolor. 
+  
+Bon Nadal i bon any,
+campi qui pugui campar; 
+bon Nadal i bon any,
+paga l´últim d´arribar. 
+Bon Nadal i bon any,
+campi qui pugui campar; 
+que ens bombin i bon any,... 
+no puc deixar-te d´estimar. 
+  
+Fotut, fracassat i trist 
+diuen: qui l´ha vist i qui el veu; 
+a mig camí de Hollywood hi ha un femer, 
+on si vols continuar has de sucar els peus. 
+Ploro per tu i plores per mi, 
+i tot plorant anem fent camí; 
+hi ha massa colorants al vi 
+i a la vida massa dolor. 
+  
+Bon Nadal i bon any,
+campi qui pugui campar; 
+bon Nadal i bon any,
+paga l´últim d´arribar. 
+Bon Nadal i bon any,
+campi qui pugui campar; 
+que ens bombin i bon any,... 
+no puc deixar-te d´estimar.END"}
+{"prompt":"", "completion":" 
+Decorats antics, destenyits; 
+núvols de cartró, cels d´abril; 
+nuvis industrials d´un pastís; 
+disfresses de reis, gust d´anís. 
+Torno a casa sol, a poc a poc, 
+per camins antics, plens de pols. 
+Hi ha gent que 'disfruta' patint, 
+però mai no hem estat d´aquests. 
+El vent ha fet caure 
+les fulles dels vells plàtans del passeig. 
+Baixem com baixen els rius, 
+entre un paisatge adormit 
+de terratrèmols de Mèxic i revoltes del Brasil. 
+Torno a casa sol, a poc a poc, 
+per camins antics, plens de pols. 
+Bona nit, amor, àngel dolç; 
+no t´oblidaré, bona nit. 
+Torno a casa sol, a poc a poc, 
+per camins amics, bona nit. 
+Per carrers antics, destenyits. 
+Cuiners de cartró i un gos prim. 
+Torno a casa sol, ensopit; 
+disfressat de rei. Bona nit.END"}
+{"prompt":"", "completion":" 
+Bum bum bum, 
+el botxí estrena nou material; 
+bum bum bum, 
+cacofonia al festival musical; 
+bum bum bum, 
+el malparit del gos d´en Pere es pixa al meu portal; 
+bum bum bum, 
+saps que a l´estiu jo t´estimo com un animal; 
+bum bum bum bum, 
+hi ha un fisioterapeuta al meu armari, dissecat; 
+bum bum bum, 
+el pensament abstracte és un obstacle. 
+Sí!END"}
+{"prompt":"", "completion":" 
+De França, cireres; d'Edivya, el vi. 
+T´estimo, petita; tota tu per a mi. 
+Patates d'Eivissa; de l´Àsia, l´esperit; 
+d'Itàlia, l´idioma, i de tu, la mel. 
+  
+Vull la delícia del teu cos. 
+De tu, el cap, el tronc i les extremitats. 
+  
+La lluna rodona; tots dos de genolls. 
+La música explota i explotem tots dos. 
+  
+Nina petita del meu cor, 
+vull la delícia del teu cos. 
+Nina petita del meu cor, 
+de tu, el cap, el tronc i les extremitats. 
+Vull la delícia del teu cos. 
+De tu, el cap, el tronc i les extremitats.
+END"}
+{"prompt":"", "completion":" 
+Me'n vaig, aquí tampoc no és a casa; 
+la dolçor dels teus besos m'havia enganyat. 
+No sóc fràgil, ho sento; 
+t'estimo de tot cor però viuré sense tu. 
+Roses pansides pels racons, 
+vestits de núvia apedaçats, 
+la clau i el duro del meu cor 
+i el futur s'ha tornat passat. 
+Me'n vaig, aquí tampoc no és a casa; 
+l'olor de la teva pell m'havia enganyat. 
+Potser sí que sóc fràgil; 
+però la meva fragilitat no és comercial. 
+Música, darrera amiga; 
+fes-nos savis i ingràvids, lliura'ns del dolor. 
+He d'anar-me'n a casa, 
+l'únic problema és que mai no l'he trobat.END"}
+{"prompt":"", "completion":" 
+Això no te cap mèrit,
+juro que no te cap mèrit;
+pot ser un bon negoci
+i es pot fer sense cap ajuda.
+Només es tracta
+d'anar amunt i després anar cap avall,
+tornar amunt i encara tornar cap avall.
+Pel que fa a la lletra
+em compro una llibreta
+un llapis i una maquineta
+cercaré justa la sentència
+amb una mica de paciència.
+I encara
+torno amunt i altra vegada cap avall,
+vaig amunt i ara despisto al personal
+i em quedo aquí.
+END"}
+{"prompt":"", "completion":" 
+Al carrer Nou hi ha un beneitó que canta i balla sol,
+bacallaneries i cistells;
+savis amb boina, barberies, cigronaires.
+Al carrer Nou bull el comerç.
+Noms de pila d'aquells temps d'abans;
+noies boniques, vols d'ocells;
+hi ha bicicletes amb un cistellet
+i una capella sense sant.
+El carrer Nou, és curiós, però de nou no en té res;
+un carrer vell fet de refranys.
+Més dies que llonganisses;
+qui dia passa, any empeny;
+no es pot dir blat, que no sigui al sac i ben lligat;
+bon vent i barca nova;
+figues d'altre paner;
+Déu vos guardi de mal;
+i un bon cel quan sigui l'hora.
+I el beneitó sota la pluja
+s'ha fet vell comptant camions;
+els bancs ara són mobiliari urbà
+i els gronxadors, equipaments.
+Tocs de campanes,
+repics inútils d'altres temps;
+i el beneitó content amb un barret,
+al carrer Nou es fot de fred.
+END"}
+{"prompt":"", "completion":" 
+Ets dolça com un paisatge que no es pot fotografiar,amb mil matisos agradosos i
+un horitzó per a resseguir.Em van fer insensible i de vegades semblo fort,no vull
+dir que no tingui penes però em són alienes les que són del cor.
+Elegants capgirells, maniobres de la ment;uns àngels que fan fregues a la
+gent.Somnis llibertaris, vagament agropecuaris;despertar i llegir aquesta carta a
+ningú.
+I torna el paisatge, que és la natura que s'entén,i torno a mirar-te, bonica, des de
+molt lluny, des de la confusió.És una tristesa severa, la que embolcalla el
+viatger,una tristesa somiadora que em dicta aquesta carta a ningú.
+END"}
+{"prompt":"", "completion":" 
+Ets dolça com un paisatge que no es pot fotografiar,amb mil matisos agradosos i
+un horitzó per a resseguir.Em van fer insensible i de vegades semblo fort, no vull
+dir que no tingui penes però em són alienes les que són del cor.
+Elegants capgirells, maniobres de la ment;uns àngels que fan fregues a la
+gent.Somnis llibertaris, vagament agropecuaris;despertar i llegir aquesta carta a
+ningú.
+I torna el paisatge, que és la natura que s'entén,i torno a mirar-te, bonica, des de
+molt lluny, des de la confusió.És una tristesa severa, la que embolcalla el
+viatger,una tristesa somiadora que em dicta aquesta carta a ningú.
+END"}
+{"prompt":"", "completion":" 
+Arri, arri, tatanet, corser magnífic, oh palafrè!
+Galoparem tot cantant aquesta cançoneta per a cavalls.
+Arri, arri, galopem
+que els tàvecs i les mosques no ens atraparan;
+tifa amunt, tifa avall, podem ser les estrelles del ball.
+Generals arrauxats, putes com gallines,
+t'han muntat abrandats en mil batalles.
+Al mercat setmanal, ànecs i pollastres:
+xarlatans mentiders i dones mudades.
+Tot això eren prats i ara són ermots mig abandonats.
+L'horitzó fugisser, darrere les muntanyes és l'últim recer.
+Arri, arri, tatanet, ningú no ens espera ni ens esperarà.
+Viatjarem en el temps, al balcó, disfressades de cavall
+END"}
+{"prompt":"", "completion":" 
+Espurnes, fumassa, central de biomassa; enginyers boirosos, vapors
+ferruginosos; turistes asmàtics, artistes antipàtics; fotògrafs polsosos, oficis
+perillosos.
+Aplaudim Miss Polígon Industrial,que festeja amb un poeta menestral.
+Cotxes elèctrics en forma de sabata;sabatots monàrquics, inútils
+tabernacles. Filòsofs intactes en formacions compactes; sardines fregides,
+senyores poc llegides; la meva més feta, si no, no s'està quieta; la vida grinyola i
+qui no corre vola.
+Massa ocells deshidratats, bruts i mesells; calcula, el tècnic, velocitats
+d'escapament. Camises florides, pubilles ensopides;Sabadell, Terrassa, central de biomassa.
+END"}
+{"prompt":"", "completion":" 
+Jo faig una vida experimental 
+basada en el principi elemental 
+que diu que tot allò que ara va bé 
+més tard o més d´hora anirà fatal. 
+Escolta´m: 
+ei Mateu! Cobra´m 'lo' meu, 
+i a tots aquest que els bombin i es paguin 'lo' seu. 
+Ei Mateu! ...aquesta no, 
+que és la meva princesa, que és el meu amor. 
+L´amor: un sentiment universal... 
+desitja escolanets el cardenal? 
+Demostrat el desconcert general, 
+un filòsof s´ho fa amb un pastor alemany. 
+Escolta´m: 
+ei Mateu! Cobra´m 'lo' meu; 
+jo hi tinc unes patates i un Martini blanc. 
+Ei Mateu, la noia no; 
+ella hi té unes olives, grosella i sifòn. 
+Ei Mateu! Cobra´m 'lo' meu; 
+donaré la volta al món sense convidar. 
+Jo enmig de la confusió, 
+dos cops a la setmana faig meditació. 
+Ei Mateu! Diu que quan mors 
+l´ànima cagant hòsties s´en va del cos; 
+ja fa dos mesos que no plou 
+haurem de tornar a treure el Sant Cristo gros.END"}
+{"prompt":"", "completion":" <p>Vull existir
+i vull donar,
+he estat miner per trobar
+un cor daurat,
+són les paraules
+que jo mai dic
+que em fa seguir buscant
+un cor daurat,
+i m'estic fent gran.</p><p>Em fa seguir buscant
+un cor daurat,
+i m'estic fent gran.</p><p>Ha anat a Hollywood
+he estat a Redwood,
+he creuat mars per trobar
+un cor daurat,
+dins el meu cap he vist
+l'estret i dur camí
+que em fa seguir buscant
+un cor daurat,
+i m'estic fent gran.</p><p>Em fa seguir buscant
+un cor daurat,
+i m'estic fent gran.</p><p>Em fa seguir buscant
+un cor daurat,
+tu em fas seguir buscant
+i m'estic fent gran.</p><p>Em fa seguir buscant
+un cor daurat,
+he estat miner per trobar
+un cor daurat.</p>END"}
+{"prompt":"", "completion":" 
+Cou-me el brou Lulú i fes-lo de bou; 
+saps que m´agrada a mi... 
+posa-hi un ou i ametlles de Salou. 
+Ja són les nou, doncs que comenci el xou. 
+Bou vol col que a Olot no hi vaig prou, 
+per molt que m´ho demani el mossèn de can Palou. 
+Prou, prou, prou que l´entrecuix em cou 
+i els divendres i els dissabtes al carrer hi ha molt renou. 
+Sé Lulú que mai tu no en tens prou: 
+prou que t´estimo jo... 
+cartes d´amor, cireres de pastor; sempre aquesta pudor... 
+sóc d´un país polsós i grapejat; potser ha estat sempre així... 
+Prou que plou que el fang m´arriba als ous; 
+si la construcció s´atura, 
+perdrem esquelles i bous: 
+prou de plors o crido al practicant. 
+Temps d´alegria, tothom riu; 
+mosques alegres vora el caseriu; 
+de la Sagrera fins al Clot, 
+t´escriuré versos entre sanglot i sanglot. 
+Ara prou, m´apujaré el sou... 
+ara totes em ponen : ula ula! cou cou! 
+Prou, prou, prou, no em toquin els ous; 
+en vista del que paguen, aquí s'ha acabat el xou.END"}
+{"prompt":"", "completion":" 
+Llunes botorudes de planetes glaçats
+flaire de llenya cremant a les llars.
+Les mares fan fricandó per als convidats,
+tortell de postres i gelats per als infants.
+Cels esperrucats, núvols escabellats,/ horitzons de taronja.
+Poetes marejats d'un lirisme sobtat;/moscatell,pets de monja.
+M'exposo a la intempèrie física i mental
+copso els matisos de la gravetat.
+Els aixoplucs fan nosa, fan nosa els manuals;
+constato que els sentiments estan sobrevalorats.
+Uuuu Daisy, nom de floreta i cara de cavall.
+Uuuu daisy, i com desafines al cor parroquial.
+Mons abandonats, polsosos i tronats,
+muntarem una granja.(No).
+Serem uns amants modèlics i formals./ Cantarem: Al•leluia.
+hi ha cels esperrucats, núvols escabellats
+i horitzons de taronja.
+I comiats de solter idiotes pel carrer;/ no hi fa res. Al•leluia.
+Al•leluia, Al•leluia...
+END"}
+{"prompt":"", "completion":" 
+Si no hi ha boira m´enfilo als tossals 
+i amb els prismàtics guaito l´horitzó; 
+si hi ha calitja, ho he de deixar... 
+presenta l´aire massa opacitat. 
+Es veu Mallorca 
+des del teu costat; 
+sigui on siguis 
+no sé com t´ho fas. 
+Canta el poeta de dolç refilar, 
+dóna tabarra a la humanitat; 
+del Tibidabo fins al Matagalls, 
+del Pedraforca fins a Montserrat. 
+Es veu Mallorca 
+des del teu costat; 
+siguis on siguis 
+no sé com t´ho fas. 
+Pirineu feréstec, que n'ets de bonic, 
+vist des dels àngels en ple mes d'abril; 
+però... si es veus Pamplona des del Canigó, 
+que et canviïn ràpid la medicació.END"}
+{"prompt":"", "completion":" 
+Iaia, porta'm a la platja a veure dones nues;
+a l'aigua tèbia hi neden
+tres llobarros fusiformes amarats de plata.
+Passen núvols idiotes, ombres de gavines
+i mentre els poetes
+vaguen entre megahertzs i versos complexos.
+S'encenen els focs de rabassa/amb carbonet portat de casa;
+els peixos creats el cinqué dia,/ens els fem el sisè a la brasa
+i els tabals criden tothom a dinar.
+Dones nues a la platja, de natges compactes,
+adormides somien
+llunes, flors miraculoses, crustacis abstractes.
+Dansen tribus circumspectes, romaní i baladres
+i un farmacèutic canta:
+Dones nues a la platja, nimfes perfumades.
+END"}
+{"prompt":"", "completion":" 
+Era tard, força tard 
+però va arribar el nostre hivern 
+i algun déu despistat 
+va deixar-se un foc encès. 
+Ara un bes, ara un mos, 
+ara un mos, un bes i dos; 
+del cel blau del teu cos 
+jo vull ser-ne l'aviador. 
+Què podem dir 
+que en aquest món algú o altre no hagi dit? 
+Sense literatura no pot haver-hi amor. 
+A dins meu, silenciós, 
+mor un jove lentament; 
+nous perfums, nous colors, 
+nous fonemes per al cor. 
+Ja no tinc el pudor, 
+o potser he de dir la por 
+de cridar el teu nom 
+i posar-lo a les cançons. 
+No, no, no 
+...que no es fongui la neu. 
+No, no, no 
+...de l'hivern més dolç. 
+Dorm, dorm, dorm 
+...bona nit amor. 
+Bona nit.END"}
+{"prompt":"", "completion":" 
+Un any més, disfressa inadequada;
+ateneu rupestre i comarcal.
+Cervell, ets una ballarina,
+balla el temps que és música atonal.
+Marduix, rosa i romaní, / eau de toilette.
+Encens, espígol i anís, / perfums de l'orient.
+Tarongina provençal, / eau de toilette.
+L'olor dels cavalls suats, / carrers incandescents.
+Les deu, ja sopa la noblesa, / és tard, la terregada dorm;
+hi ha manyans, modistes i paletes,
+hi ha barons, meuques i capellans.
+Ah... turistes xops com ànecs,/ ah...qui els vol aixoplugar?
+Ah... i les verges trobades,/ ah...qui les torna a trobar?
+Cançons sobre l'amistat, / de bona fe....Sí..
+Les normes segons les quals / opera l'Univers.
+Gimnastes apedaçats, / no gaire fins,
+flexionen extremitats, / fan cara de patir.
+Marduix, rosa i romaní, / eau de toilette.
+Encens, espígol i anís, / perfums de l'orient.
+Vull ser el teu pollastre a l'ast, / eau de toilette.
+Xarop de rinoceront, / pomada de camell.
+END"}
+{"prompt":"", "completion":" 
+Hola ratolí, suau i petit;
+sóc el teu cantant preferit.
+Jo em moro per tu i tu et mors per mi
+i pel meu vers atrevit.
+El meu hàmster va anar a Cuba… i què?
+doncs jo me'n vaig a Marraqueix.
+Si hi ha una dona que té mal de cap,
+proveu de fer-li menjar peix.
+Ai, ai! Manta i carretera;
+fer el tomàquet pel món sencer.
+Ai, ai! Carretera i manta
+i una noia que vol dir-se Odette.
+Ai, ai! Manta i carretera,
+carquinyolis, pets de monja i mel.
+Ai, ai! Carretera i manta
+i els teus llavis de pur caramel.
+Sóc llatí com ho era en Ciceró,
+criat al món del canaló.
+Moc els malucs amb gràcia i distinció
+però de cert no sé els malucs què són.
+Tu ja saps que jo t'estimaré
+ben bé fins l'últim combregar
+i si el meu hàmster va anar Cuba… què?
+Doncs jo me'n vaig a Sabadell.
+Ai, ai! Manta i carretera;
+fer el tomàquet pel món sencer.
+Ai, ai! Carretera i manta
+el meu somni és que em diguin Josep.
+Ai, ai! Tot un món per fer-hi el préssec;
+carquinyolis, pets de monja i mel.
+Ai, ai! Carretera i manta
+i els teus llavis de pur caramel.
+END"}
+{"prompt":"", "completion":" 
+Em dius que el nostre amor
+va ser com un infant
+que dóna al teu cor
+els dies que vindran.
+Perdut i sense nau,
+mirall de coses belles,
+em dius que el nostre amor
+s'acaba a les estrelles.
+Em dius que el nostre amor
+només era el primer,
+que un altre braç més fort
+t'abraçarà més bé.
+A punt de ser record,
+claror de flor collida,
+em dius que el nostre amor
+no sap trobar la vida.
+Em dius que plori,
+si vull plorar,
+em dius que mori
+fins a demà,
+no pots comprendre
+com el dolor
+dura per sempre
+si es fa cançó.
+Em dius que el nostre amor
+era un ocell ferit
+tremolant al teu cor,
+somniant al meu pit.
+Amiga de la mort,
+camí de vela blanca,
+la llum del nostre amor
+és una flor que es tanca
+END"}
+{"prompt":"", "completion":" 
+Em trenques el cor; queda el record; 
+nits ardents d´agost. 
+Em quedaré sol; és perillós; 
+nits ardents d´agost. 
+  
+No estic lliure de culpa però llenço la pedra si arriba el moment. 
+  
+Esperit de vi, copes d´amor; 
+nits ardents d´agost. 
+Ni ordre ni pau, massa dolor; 
+nits ardents d´agost. 
+  
+Els bons són sempre els bons 
+i a mi em sembla evident que els dolents són dolents. 
+No estic lliure de culpa però llenço la pedra si arriba el moment. 
+  
+Receptes de cuina; em trenques el cor. 
+Records sense cap valor, sort de les cançons. 
+Prenent el sol al terrat, em trenques cor. 
+  
+Cançons d´altres mons, danses tribals; 
+nits ardents d´agost. 
+Administrarem les nostres passions; 
+nits ardents d´agost. 
+  
+Al Carib els turistes es moren d´angúnia i volen tornar; 
+jo hi veig doble i t´estimo, i tu dius que m´estimes però em trenques el cor. 
+  
+Princesa acrobàtica, em trenques el cor. 
+Hi ha merda automàtica, per a mi i per a tothom. 
+Records sense cap valor, sort de les cançons. 
+Princesa automàtica, em trenques el cor.END"}
+{"prompt":"", "completion":" 
+M'agrada estendre la roba
+que fa aquella olor intensa de floretes;
+penso en les meves cosetes
+i el solet m'acarona el clatell.
+Calçotets, calces i pantalons,
+els veïns couen una paella.
+Tot el terrat s'ha tenyit dels colors
+dels mitjons que han perdut la parella.
+Badant i estenent la roba
+em sembla tenir un avida nova
+i oblido totes les bestieses
+que capfiquen al personal.
+END"}
+{"prompt":"", "completion":" 
+Mira, ets de por i faré una cançó que ho proclami. 
+No canto bé però potser hi cantaré si tu vols. 
+Tothom mira al cel i tu mires la terra calenta, 
+diuen que passa un cometa i tu te'n fots. 
+Si tens un somni jo el guardaré, 
+barrejat entre els meus en farà de nous, 
+i ballarem al mig del carrer 
+aprofitant que és tard i tothom dorm. 
+Som trempats i anirem al cel, 
+però abans hi ha una feina que s'ha de fer: 
+xafem-ho tot, que no quedi res, 
+només el teu amor que és dolç com la mel. 
+Com els atletes saltem els obstacles que anem trobant. 
+Sona el telèfon, i què!... si també sono jo. 
+Tot el país és flames, hi ha 'tiros' a l'ajuntament 
+i una balena s'afoga a l'entrada del moll. 
+Deixa'm mirar amb els teus ulls blaus, 
+et prometo no fallar-te mai. 
+Deixa'm perdre'm en el teu món 
+com un astronauta en l'espai. 
+Te'n fots i ets de por... 
+Mira, ets de por i aquí tens la cançó que ho proclama. 
+Venim de la pols i es veu que en pols ens convertirem, 
+cada setmana que passa és més a la vora 
+i jo em pulveritzo de pena i tu te'n fots.END"}
+{"prompt":"", "completion":" 
+Mira que ets bonica excursionista 
+amb els teus sabatots! 
+Mitja vida pujant les muntanyes, 
+l´altra mitja baixant. 
+M´agrada caminar al teu darrera 
+amb gran concentració; 
+tot resseguint amb gràcia les carenes, 
+(et) canto aquesta cançó: 
+Excursionista de cuixes suggerents; 
+suarem plegats l´elixir de l´amor. 
+L´aire s´enrareix a les altures 
+de l´aspre Canigó; 
+tu xarrupes de ma cantimplora 
+i de la teva jo. 
+Vull que sàpigues que jo t´estimo 
+amb el més tendre amor 
+...si ajupida tu reculls floretes, 
+també m´ajupo jo. 
+Excursionista de cuixes celestials; 
+llet condensada, faves, figues i flors.END"}
+{"prompt":"", "completion":" 
+Expulsats del cel, per pecats que mai no hem comès; 
+hem caigut al més deliciós de tots els inferns. 
+Potser... quan els cervells s´espatllen, les ànimes van millorant. 
+Tristos exercicis d´ètica elemental. 
+Benvinguts a enlloc, ballarem al voltant del foc. 
+Vine i abandona´t al ritme dels tambors. 
+  
+Londres, anys seixanta; la Garrotxa, anys dos mil. 
+La vida de l´Hendrix penjava d´un fil. 
+  
+Callo tot el dia, el cert és que no sé què et vull dir; 
+només vull besar-te i tornar-me foll i petit; 
+les paraules son els sorolls que poden fer més mal, 
+però la música és un bàlsam per als cors ferits. 
+  
+Perdem els papers, 
+no penso baixar. 
+  
+Demanes justícia, bah! no t´ho creus ni tu. 
+Lladres amb alarmes, naturistes vestits. 
+Londres, anys seixanta; la Garrotxa, anys dos mil. 
+La vida de l´Hendrix penjava d´un fil. 
+  
+Tornaré a buscar-te si algun dia em trobo a mi; 
+i tornaré a besar-te els llavis glaçats pel fred. 
+No viurem enlloc, ballarem al voltant del foc, 
+i la música ens serà un bàlsam per als cors ferits.END"}
+{"prompt":"", "completion":" 
+Sota el sol, vora el mar,
+núvols de colors.
+I que és bonic començar així una cançó.
+Hi ha organismes marins dins del meu arròs;
+són tots ben morts perquè els mengem tu i jo.
+Dius que sí, dius que no;
+depèn del que et dic;
+jo sóc feliç, no em voldria morir mai.
+Com beneits ens mirem
+molt endins dels ulls
+i fem xin-xin tot brindant per l'amor.
+Rams de flors, espardenyes
+i mocadors;
+avellanes, ametlles, pinyons.
+Anem a ballar balls antics
+que ja no balla ningú
+fem el ximple i brindem per l'amor.
+END"}
+{"prompt":"", "completion":" 
+Festa Major d'Hivern, senyores del Banana Beach; curses de carretons,
+campionat de set i mig.Cantants empolainats i músics mig intoxicats.Enmig de la
+confusió, miro de robar-te un petó.
+Enyorant llocs que encara no hem visitat mai,actuem com personatges a mig
+construir. Festa Major d'Hivern.
+De qui és aquell gos? De qui és aquest home d'aquí? Solters contra casats amb
+rifes a la mitja part.
+Vibra l'envelat amb les tonades del momenti el personal perd el senderi
+ràpidament;és tard i els balladors han inundat la pista d'il·lusió. Festa Major
+d'Hivern. No pararan fins que no surti el sol.Festa Major d'Hivern.
+END"}
+{"prompt":"", "completion":" 
+Festa Major d'Hivern, senyores del Banana Beach; curses de carretons,
+campionat de set i mig.Cantants empolainats i músics mig intoxicats.Enmig de la
+confusió, miro de robar-te un petó.
+Enyorant llocs que encara no hem visitat mai,actuem com personatges a mig
+construir. Festa Major d'Hivern.
+De qui és aquell gos? De qui és aquest home d'aquí? Solters contra casats amb
+rifes a la mitja part.
+Vibra l'envelat amb les tonades del momenti el personal perd el senderi
+ràpidament;és tard i els balladors han inundat la pista d'il·lusió. Festa Major
+d'Hivern. No pararan fins que no surti el sol.Festa Major d'Hivern.
+END"}
+{"prompt":"", "completion":" 
+Canto al filòsof, canteu amb mí!
+en bella llengua del Llemosí.
+Cantem-ho:
+L'art és donar vida diu Francesc Pujols;
+com Rusiñol, en Casas i el gran Gaudí
+Sisa, Pau Riba, Miró i Dalí.
+Manolo Vázquez, l'Albert i en Josep Pla.
+Els vegetarians no hauran de patir,
+ja matarem un bròquil si veniu a dinar.
+A Francesc Pujols volem cantar
+amb aquest pas-doble clar i català.
+Més cantarem quan pel fet de ser d'aquí,
+anant pel món ho tindrem tot pagat.
+En Lluís Massana, en Raimon, la Bonet;
+Llach, Coromina i amb modèstia en Portet.
+A Francesc Pujols volem cantar
+amb aquest pas-doble clar i català,
+que també canten els àngels del cel
+que aquests de tontos no en tenen un pèl.
+Al gran filòsof, hereu d'en Llull,
+avui cantem encesos, la sang ens bull.
+trempen la lira de l'Ausiàs March
+les belles senyoretes del 'Turó Parc'.
+END"}
+{"prompt":"", "completion":" 
+Canto al filòsof, canteu amb mí!
+en bella llengua del Llemosí.
+Cantem-ho:
+L'art és donar vida diu Francesc Pujols;
+com Rusiñol, en Casas i el gran Gaudí
+Sisa, Pau Riba, Miró i Dalí.
+Manolo Vázquez, l'Albert i en Josep Pla.
+Els vegetarians no hauran de patir,
+ja matarem un bròquil si veniu a dinar.
+A Francesc Pujols volem cantar
+amb aquest pas-doble clar i català.
+Més cantarem quan pel fet de ser d'aquí,
+anant pel món ho tindrem tot pagat.
+En Lluís Massana, en Raimon, la Bonet;
+Llach, Coromina i amb modèstia en Portet.
+A Francesc Pujols volem cantar
+amb aquest pas-doble clar i català,
+que també canten els àngels del cel
+que aquests de tontos no en tenen un pèl.
+Al gran filòsof, hereu d'en Llull,
+avui cantem encesos, la sang ens bull.
+trempen la lira de l'Ausiàs March
+les belles senyoretes del 'Turó Parc'.
+END"}
+{"prompt":"", "completion":" 
+Fart de fer frases fetes, cançons i rimetes, 
+busco en un diccionari un sinònim de fals. 
+Vull sentir coses belles però no tinc orelles; 
+massa coses al cap 
+i el cap tan lluny del cos. 
+  
+Que surti el sol i ho esborri tot: 
+versos de monstres tronats, 
+fregalls de por, corones i rams, 
+la meva cara al mirall, 
+artistes folls, dones de cristall 
+de les revistes del cor, 
+gent important, toreros valents, 
+pastilles per aprimar. 
+  
+Deixa'm sol però no tant
+que el silenci m'espanta, 
+sento la maquinària del temps al passar. 
+Deixa'm sol però no tant que la música acaba, 
+cada nota que passa no torna a passar. 
+Fart de fer frases fetes, cançons i rimetes, 
+de mirar amb ulls miops provant de veure-hi clar. 
+Estima'm però no tant que s'acaben els dies 
+i les nits i l'amor i el futur i el passat. 
+  
+Que surti el sol i ho esborri tot: 
+versos de monstres tronats, 
+fregalls de por, corones d'espines, 
+la meva cara al mirall, 
+artistes folls, dones de cristall 
+de les revistes del cor 
+gent important, toreros i bisbes, 
+pastilles per aprimar. 
+END"}
+{"prompt":"", "completion":" 
+Fart de fer frases fetes, cançons i rimetes, 
+busco en un diccionari un sinònim de fals. 
+Vull sentir coses belles però no tinc orelles; 
+massa coses al cap 
+i el cap tan lluny del cos. 
+  
+Que surti el sol i ho esborri tot: 
+versos de monstres tronats, 
+fregalls de por, corones i rams, 
+la meva cara al mirall, 
+artistes folls, dones de cristall 
+de les revistes del cor, 
+gent important, toreros valents, 
+pastilles per aprimar. 
+  
+Deixa'm sol però no tant
+que el silenci m'espanta, 
+sento la maquinària del temps al passar. 
+Deixa'm sol però no tant que la música acaba, 
+cada nota que passa no torna a passar. 
+Fart de fer frases fetes, cançons i rimetes, 
+de mirar amb ulls miops provant de veure-hi clar. 
+Estima'm però no tant que s'acaben els dies 
+i les nits i l'amor i el futur i el passat. 
+  
+Que surti el sol i ho esborri tot: 
+versos de monstres tronats, 
+fregalls de por, corones d'espines, 
+la meva cara al mirall, 
+artistes folls, dones de cristall 
+de les revistes del cor 
+gent important, toreros i bisbes, 
+pastilles per aprimar. 
+END"}
+{"prompt":"", "completion":" 
+Plaça de la Independència;
+no sé a quina independència es refereix.
+Palplantat a la memòria,
+habillat amb una corona d'enyor.
+Carquinyolis futuristes
+a la llum crepuscular;
+mai no oblido els noms de pila
+dels mossens que em van hostiar.
+M'és igual.
+Diu que ha mort un flabiolaire,
+s'ha empassat el flabiol de l'emoció
+i abatuts, hi ha dos dansaires
+que esperen que algú reprengui la cançó.
+Vaig buscant una drecera,
+vaig buscant un sistema d'ordenació;
+i els records i els fonemes s'apilonen,
+canta l'avi, vora el foc des de l'escon.
+Nyigo, nyigo, nyigo,
+calces de paper;
+la tomata verda
+i el pebrot vermell.
+END"}
+{"prompt":"", "completion":" 
+M'he quedat sol amb la meva guitarra. 
+Nits tristes, no em deixis, 
+estic sol, guitarra; 
+sentir- te, tocar- te, tan lluny, guitarra. 
+Tots m'han deixat mentre jo t'abraçava; 
+per tu ara estic en una vida estranya. 
+Mai no et vull perdre; 
+canta per mi. 
+Tothom té somnis, 
+jo et tinc a tu. 
+Tots m'han deixat mentre jo t'abraçava. 
+I si és la guerra seràs un fusell; 
+si tot s'acaba, al final, plora guitarra. 
+Mai no et vull perdre; 
+canta per mi. 
+Tothom té somnis, 
+jo et tinc a tu. 
+M'he quedat sol amb la meva guitarra. END"}
+{"prompt":"", "completion":" 
+D'esquena al mar i a la muntanya; 
+completament al marge de l'activitat industrial; 
+sota una col, canta el poeta:
+Des d'una àrea de servei, 
+la meva terra 
+és com un parrac grapejat; 
+un país vençut pel davant 
+i pel darrere; 
+d'atrotinada dignitat. 
+Adéu turons amics, 
+adéu rieres, 
+boscos d'alzines i de roures i fagedes. 
+Muntanyes del meu cor, 
+adéu estrelles, 
+adéu al mar pur de cristalls i de turqueses.
+Lleugerament trastocat, el poeta continua cantant:
+Sona una guitarra 
+i el solet no vol sortir; 
+a veure la terra promesa 
+com fa el seu darrer sospir. 
+Hola pudors d'inferns, 
+brutes i abjectes; 
+d'animals escorxats, sentor de sang i merda. 
+Adéu olors d'abans: 
+fenc, trepadella; 
+d'espígol dolç i farigola a l'escudella. 
+Adéu amor, bonica, 
+la millor amiga, 
+adéu rateta que escombrava l'escaleta. 
+I allà a sota una col, 
+canta el poeta: 
+homes i dones del cap dret, 
+adéu per sempre.END"}
+{"prompt":"", "completion":" 
+D'esquena al mar i a la muntanya;
+completament al marge de l'activitat industrial;
+sota una col, canta el poeta:
+Des d'una àrea de servei,
+la meva terra
+és com un parrac grapejat;
+un país vençut pel davant
+i pel darrere;
+d'atrotinada dignitat.
+Adéu turons amics,
+adéu rieres,
+boscos d'alzines i de roures i fagedes.
+Muntanyes del meu cor,
+adéu estrelles,
+adéu al mar pur de cristalls i de turqueses.
+Lleugerament trastocat, el poeta continua cantant:
+Sona una guitarra
+i el solet no vol sortir;
+a veure la terra promesa
+com fa el seu darrer sospir.
+Hola pudors d'inferns,
+brutes i abjectes;
+d'animals escorxats, sentor de sang i merda.
+Adéu olors d'abans:
+fenc, trepadella;
+d'espígol dolç i farigola a l'escudella.
+Adéu amor, bonica,
+la millor amiga,
+adéu rateta que escombrava l'escaleta.
+I allà a sota una col,
+canta el poeta:
+homes i dones del cap dret,
+adéu per sempre.
+END"}
+{"prompt":"", "completion":" 
+Tristesa... 
+en veure el món grapejat 
+com un parrac arrugat al terra. 
+Hostessa, 
+enlairar-se és opcional 
+però al final s´ha d´aterrar. 
+Visca el teixit industrial! 
+...accelerem la demanda. 
+Jo fabricaré 'Bumbúm' 
+que és un producte fantàstic. 
+En Felip de nit veu visions, 
+les cadires semblen lleons 
+mentre plou a bots 
+i a barrals a fora al carrer. 
+La Pilar té nom de pilar, 
+la Dolors té nom de dolor 
+i el cantant té nom de gosset... 
+tristesa. 
+Hostessa, 
+l´estimo amb tot el meu cor, 
+enfilem-nos fins al cel com dos ocells. 
+Hostessa, 
+enlairar-se és opcional 
+però es peremptori aterrar. 
+I parlarem en anglès, 
+que hi ha més gent que el mastega; 
+i que ens entengui tothom 
+...de fet no hi ha res a entendre.END"}
+{"prompt":"", "completion":" 
+Deixa passar el vent per les finestres del nord; 
+deixa passar el vent i que t'airegi tot el cor. 
+Als quaderns antics que groguegen
+pels racons: 
+negres ametllers i ensopits versos d'amor. 
+  
+Dolces tardes de setembre, 
+prop del final de l´estiu malferit; 
+els insectes que ens veiren junts, 
+com imbècils es comencen a morir. 
+  
+Deixa passar el vent, que s´endugui el teu dolor; 
+deixa que et recordi perfumada de claror. 
+Deixa passar el vent, encara l´ànima al nord; 
+fresc i juganer, et farà un forat al cor. 
+  
+Quaderns antics i bromes de mal gust,
+insectes dissecats. 
+Quaderns antics i nosaltres també
+ens comencem a morir.END"}
+{"prompt":"", "completion":" 
+Quatre cacatues, ei!, nascudes en captivitat en la freda foscor del circ, que és tot
+el que han pogut copsar. Pallassos arraulits de fred sota un camió de bombers; va
+conill el domador i diu que no fa el fred d'abans.
+Quatre cacatues, ei!, en gàbies de metalls estranys; els arriba la flaire dels pins,
+conciliàbul d'assassins. Ja criden els jubilats pels altaveus rovellats,que els
+espera l'autobús. Diu que no fa el fred d'abans.
+END"}
+{"prompt":"", "completion":" 
+Una tarda grisa 
+d´un dia brut i gris, 
+a fer propaganda, 
+el poeta ha de marxar; 
+porta roba nova, 
+pantalons de lli, 
+camisa de seda 
+amb botonets de marfil. 
+Torno bona amiga, 
+torno al teu costat 
+com torna el cogombre havent sopat. 
+Torno a l´infantesa 
+amb olor de fenc 
+i d´alfals mullat, jo ja m´entenc. 
+Què em vols vella amiga? 
+Què en vols fer de mi? 
+Estofat de bèstia... 
+tranquil·la, jo ja m´entenc. 
+Déu barreja plagues 
+amb algun llamí, 
+a mi em va fer tòtil 
+però amb un cos de figurí. 
+Massa noies brunes, 
+massa mar al mar, 
+massa cràters a la lluna, 
+massa hidrògen, massa pols. 
+Massa portes i finestres, 
+alumnes i professors, 
+massa pes a l´estructura, 
+massa déus, massa de tot.
+Baixaré a les mines 
+i minaré el món; 
+no us hi amoïneu, 
+jo ja m´entenc. 
+Al cor duc l´espina 
+i al pit la cançó; 
+potser és al revés, 
+jo ja m´entenc. 
+Un cap de setmana 
+de color d´anís, 
+jo vull ser romàntic 
+i endur-se t´en a París; 
+regalar-te un ànec 
+que es digui Genís; 
+tu mai no pateixis, 
+normalment jo ja m´entenc.END"}
+{"prompt":"", "completion":" 
+Senyor o senyora, 
+totpoderós, 
+no sigueu bèstia i no ens feu patir. 
+Si us en cuideu d´aquest món inútil, 
+no es pot pas dir que us n´hagueu sortit. 
+Si de vegades et venen ganes de blasfemar i cridar el nom del porc; 
+respira fondo, no perdis el temps que és emprenyar-se amb un tros de roc. 
+Kyrieleison, kyrieleison 
+ésser altíssim, 
+ja no som joves, 
+i hem tingut temps per a reflexionar 
+i hem observat que si hi ha un conflicte 
+el sol guanyar el més animal. 
+Senyor o senyora, 
+sigueu qui sigueu, feu que algun cop perdin els dolents; 
+fins els guionistes ho fan al cine, així ens enredem al Cine Club. 
+Kyrieleison, kyrieleison 
+Senyor o senyora, 
+totpoderós, 
+no sigueu bèstia i no ens feu patir. 
+Si sou el responsable d'aquest casino, 
+ningú pot dir-nos que us n'heu sortit.END"}
+{"prompt":"", "completion":" 
+Jo sóc l'home civilitzat. 
+La raó està del meu costat. 
+La vida és meva. 
+  
+Jo sóc el que tot ho ha construït. 
+M'emborratxo quan estic deprimit. 
+Jo he desviat rius per a guanyar batalles; 
+he fet forats a totes les muntanyes. 
+  
+El món em tem, jo el domino. 
+Per Nadal a tothom estimo massa. 
+  
+Jo sóc l'home civilitzat. 
+Jo sóc l'home blanc. 
+La civilització és l'art de dissimular que tot és provisional. 
+  
+La vida és curta. 
+Mira quina casa tinc; 
+amb calefacció i un timbre que fa: Ring! 
+  
+El món és meu d'ara fins sempre. 
+Si estic boig dic que t'estimo encara. END"}
+{"prompt":"", "completion":" 
+La bella Clítoris toca el trombó, 
+ho aprova el públic amb una ovació, 
+la vam conèixer a alfabetització; 
+dones així ja no s´en fan. 
+La cuixa i l´ala se li vull menjar, 
+del bec besar-la fins al sobrecuix 
+i anar al club nàutic i morir ofegat 
+amb un vermut a cada mà. 
+Festa Major: 
+el meu carrer és setzè 
+en el concurs d´enguany de decorats; 
+espígol fresc, suor, xurros i amor. 
+Des d´Expeleta fins a Timbuctú 
+vull anar-me´n d´expedició amb tú; 
+fumar-nos tot l´haixix del Curucú. 
+Seràs ma musa número divuit, 
+la nimfa etèria que em farà somiar 
+i jo el poeta 'sexy' i atrevit, 
+mig Verdaguer i mig Tarzan. 
+I si se m´acaba la inspiració 
+et reescalfaré una vella cançó 
+que vaig escriure per al meu concert 
+per a moto-serra i flabiol. 
+Serem estrangers, direm coses rares 
+i naufragarem a port: 
+gambes i vi blanc. 
+No ens fem il.lusions, 
+som morts de vacances, 
+sardines de llauna amb el cap tallat, 
+tornades al mar.
+Duu un vestidet de flors 
+molt ajustat, 
+dues sandàlies (una a cada peu); 
+jo me la miro molt discretament 
+i ella fa veure que no em veu. 
+La bella Clítoris no em vol besar, 
+el públic trist plora i pica de peus 
+i una senyora de Sant Pol diu que 
+d´homes com jo ja no s´en fan.END"}
+{"prompt":"", "completion":" 
+Merda de muntanya no pudor,
+encara que remenis amb bastó.
+De marinada, de marinada el dolç airet,
+el ric estiu, l'empenyeria cap el riu.
+Merda de muntanya no pudor,
+encara que remenis amb bastó.
+Dolces marranades de passió,
+jo arribo amb una mà a cada colló.
+Merda de muntanya no pudor,
+encara que remenis amb bastó.
+END"}
+{"prompt":"", "completion":" 
+Un altre temps, un altre lloc, i una altra vida.
+El món sencer sembla aturat.
+Un altre avui, un altre ahir i un altre sempre.
+Altres remeis pel mateix mal.
+Joguines de cristall
+en mans del temps
+i el temps joguina
+en mans dels Déus.
+Lliura del teu alè la clau de vells misteris
+i la alegria de l'infant.
+Lliure en la força i la música dels astres
+i la puresa del metall.
+I les cançons d'altres hiverns
+putrefactes tornen des d'altres inferns.
+Joguines de cristall
+en mans del temps
+i el temps joguina
+en mans dels Déus.
+Un altre temps, un altre lloc, i una altra vida.
+El món sencer sembla aturat.
+Un altre avui, un altre ahir i un altre sempre.
+Altres remeis pel mateix mal.
+END"}
+{"prompt":"", "completion":" 
+La terrassa d'un bar en una nit d'estiu,
+Si no perdo la consciència, seguiré pensant en tu.
+Hi ha un mico que balla en la punta d'un pal
+I senyores amb paraigües que em diuen: 'hola, què tal?'.
+Hi ha un home que resa a algun déu superior
+Amb dues espelmes i un nas de cartró
+I jo he vingut d'estranquis, no ho diguessis a ningú,
+Aquí al lloc d'aquesta terra que més em recorda a tu.
+Hi ha dos policies que es passegen a cavall,
+Els cavalls senmblen de goma i els genets de metall.
+Un, dos, tres, botifarra de pagès;
+T'escriuria una postal però tinc el cap massa espès.
+Anem a voltar per la Rambla,
+Et compraré un ramet de flors.
+Anem a voltar per la Rambla,
+Beurem xaropets de colors.
+Anem a voltar per la Rambla
+Vestits amb gorros de paper,
+Ens pintem de rosa la cara
+I parlarem en estranger.
+Al balcó d'una tronada pensió
+Hi ha una dona grassa que es pentina amb un raspall,
+Porta una perruca que li cau fent anar el porró
+I encara s'enrecorda dels tramvies amb cavall.
+He vist un arbre tort amb llumets de tots colors
+I un colom solitari barallant-se amb un anís;
+Hi ha dies deliciosos que ve de gust recordar,
+Anem fins a la Rambla a fer un vas de Pastís.
+Anem a voltar per la Rambla,
+Et compraré un ramet de flors.
+Anem a voltar per la Rambla,
+Beurem xaropets de colors.
+Anem a voltar per la Rambla
+Vestits amb gorros de paper,
+Ens pintem de rosa la cara
+I parlarem en estranger.
+END"}
+{"prompt":"", "completion":" 
+La terrassa d'un bar en una nit d'estiu,
+Si no perdo la consciència, seguiré pensant en tu.
+Hi ha un mico que balla en la punta d'un pal
+I senyores amb paraigües que em diuen: 'hola, què tal?'.
+Hi ha un home que resa a algun déu superior
+Amb dues espelmes i un nas de cartró
+I jo he vingut d'estranquis, no ho diguessis a ningú,
+Aquí al lloc d'aquesta terra que més em recorda a tu.
+Hi ha dos policies que es passegen a cavall,
+Els cavalls senmblen de goma i els genets de metall.
+Un, dos, tres, botifarra de pagès;
+T'escriuria una postal però tinc el cap massa espès.
+Anem a voltar per la Rambla,
+Et compraré un ramet de flors.
+Anem a voltar per la Rambla,
+Beurem xaropets de colors.
+Anem a voltar per la Rambla
+Vestits amb gorros de paper,
+Ens pintem de rosa la cara
+I parlarem en estranger.
+Al balcó d'una tronada pensió
+Hi ha una dona grassa que es pentina amb un raspall,
+Porta una perruca que li cau fent anar el porró
+I encara s'enrecorda dels tramvies amb cavall.
+He vist un arbre tort amb llumets de tots colors
+I un colom solitari barallant-se amb un anís;
+Hi ha dies deliciosos que ve de gust recordar,
+Anem fins a la Rambla a fer un vas de Pastís.
+Anem a voltar per la Rambla,
+Et compraré un ramet de flors.
+Anem a voltar per la Rambla,
+Beurem xaropets de colors.
+Anem a voltar per la Rambla
+Vestits amb gorros de paper,
+Ens pintem de rosa la cara
+I parlarem en estranger.
+ END"}
+{"prompt":"", "completion":" 
+La terra és plana, ho sap tothom,
+però a les planes hi ha rieres, codinetes i turons.
+Potser tinc ànima, no ho sé;
+però el que sé de cert és que el teu cos s'entén amb el meu cos.
+Jo perdo el fil i no m'en recordo
+de com et dius;
+perdo el fil i el més trist és que
+el fil em perd a mi.
+Quatre palmeres i un camell,
+barrejats en els meus somnis, en anglès parlen de tu.
+Quatre palmeres i un camell
+i una meuca en un carrer que crida: massa tard imbècil!
+Perdo el fil i no me'n recordo
+de com em dic;
+perdo el fil però el més trist és que
+el fil em perd a mi.
+Si canta l'ànima me'n vaig
+que jo no hi faig cap falta i no sé mai què he de dir.
+Vibren les musses i no hi sóc,
+pallús deconstructiu, intel·lectual carregós.
+Un terapeuta de Rubí
+que tracta el mal d'esquena amb infusions de comí.
+Hiverns de l'hemisferi austral,
+i un monjo tibetà penja una merda en un pal.
+Xalets estúpids amb un gos;
+pesa figues als meus somnis un turista italià.
+Quatre palmeres i un camell,
+semi-déus en un carrer que criden: massa lluny imbècil!
+END"}
+{"prompt":"", "completion":" 
+La terra és plana, ho sap tothom,
+però a les planes hi ha rieres, codinetes i turons.
+Potser tinc ànima, no ho sé;
+però el que sé de cert és que el teu cos s'entén amb el meu cos.
+Jo perdo el fil i no m'en recordo
+de com et dius;
+perdo el fil i el més trist és que
+el fil em perd a mi.
+Quatre palmeres i un camell,
+barrejats en els meus somnis, en anglès parlen de tu.
+Quatre palmeres i un camell
+i una meuca en un carrer que crida: massa tard imbècil!
+Perdo el fil i no me'n recordo
+de com em dic;
+perdo el fil però el més trist és que
+el fil em perd a mi.
+Si canta l'ànima me'n vaig
+que jo no hi faig cap falta i no sé mai què he de dir.
+Vibren les musses i no hi sóc,
+pallús deconstructiu, intel·lectual carregós.
+Un terapeuta de Rubí
+que tracta el mal d'esquena amb infusions de comí.
+Hiverns de l'hemisferi austral,
+i un monjo tibetà penja una merda en un pal.
+Xalets estúpids amb un gos;
+pesa figues als meus somnis un turista italià.
+Quatre palmeres i un camell,
+semi-déus en un carrer que criden: massa lluny imbècil
+END"}
+{"prompt":"", "completion":" 
+Sant Bonanova i Sant Baltasar,
+Santa Balvina i Sant Bartomeu.
+Santa Caterina i Sant Constantí
+i Sant Bernat de Claravall.
+Santa Quitèria, Sant Procopi i Sant Julià,
+Santa Sofia i Sant Romà.
+Sant Pere Màrtir, Santa Mònica i Sant Pancraç,
+Sant Ponç, Sant Pius, Sant Sadurní.
+Rosa de Lima, Bernat Calvó,
+Tomàs d'Aquino i Sant Berenguer,
+Santa Bernadeta i Sant Nicanor,
+feu-me quedar bé amb 'Nostre Senyor'.
+END"}
+{"prompt":"", "completion":" 
+Vull viure a càmera lenta 
+en un cel clínic i esterilitzat. 
+Lauren Bacall és la més atractiva, 
+és l´únic ídol que podem acceptar. 
+Vull meditar com mediten els monjos, 
+robar carteres en el Parnàs. 
+  
+Dies de joia. Oe!... 
+  
+Lauren Bacall és un país que imagino 
+al nord de l´Índia i a l´oest del Nepal. 
+Cims del Magrib, te de menta i maria; 
+nimfes descalces als supermercats. 
+Allà a on hi ha un peu també hi ha una galleda 
+i tard o d´hora s´hi sucarà. 
+A la tornada diem: «dies de joia»; 
+només ho diem perquè sona bé. 
+  
+Dies de joia. Oe!... 
+Música que és alhora gitana i paia. Oe! 
+  
+Al cel fonètic hi tenim un lloc. 
+Música inútil reina del meu cor. 
+  
+Lauren Bacall és la més atractiva, 
+és l´únic ídol que podem acceptar. 
+No ens besem fins que no sigui de dia; 
+la música és un fi, no és un mitjà. 
+  
+Dies de joia. Oe!... 
+Música que és alhora gitana i paia. Oe! 
+Dies de joia. Oe!... 
+Música per projectar els esperits enlaire. Oe!END"}
+{"prompt":"", "completion":" 
+Vent del nord, motor de l'hivern, 
+si vas al sud porta-hi aquesta cançó, 
+les nits són tristes com ocells petits. 
+  
+Vent del nord, tu ets el meu company, 
+vent solitari forada'm el cap, 
+si bufes allà on viu ella tot portant l'hi el fret, 
+digues-li a l'orella que l'estimo jo. 
+  
+Només tu saps el que ha pasat, 
+fa tants anys que ens coneixem; 
+només tu pots saber el que sento, 
+vent del nord. 
+  
+Vent del nord, ja l'estiu és mort, 
+de dins del bosc arriba una cançó, 
+que diu que la vida és trista quan s'estima molt 
+i que la llum s'acaba quan s'acaba el foc. 
+  
+Només tu saps el que ha pasat, 
+fa tants anys que ens coneixem; 
+només tu pots saber el que sento, 
+vent del nord. 
+  
+Vent del nord, motor de l'hivern, 
+si vas al sud porta-hi aquesta cançó, 
+les nits són tristes com ocells petits; 
+si un dia tu t'acabes, m acabo jo. 
+ 
+END"}
+{"prompt":"", "completion":" 
+U ieee!
+Avui faig tard, si m'esquitxes, cargol iroquès;
+a veure un cel blau i les cuixes que té la Remei;
+avui l'he vist a la porta d'en Pau panader,
+provant els 'sobaos', i duia les calces de paper.
+A cada col un dos, mira, mira quin cos,
+a mitja carretera prop de Manacor,
+a aquell que m'esquitxi li capgiraré el gos,
+si petges la petjada i menges macarrons.
+Amics: ja en tinc prou, n'estic fins els ous, ara bé…
+si torna el 'hippie' d'en Pau, vestit de babau, mataré.
+A cada ós un gos rabassut i galdós,
+en Pitxi té un caniche que m'escriu les cançons;
+la dona de fer feines m'ha perdut uns mitjons;
+no trobo la manera de menjar macarrons.
+Un gos sense os, univers de colors,
+prepara't per fer feina, duc un sac de cargols,
+ja saps que m'agraden les politges dels pous,
+encara no m'heu vist menjar macarrons.
+END"}
+{"prompt":"", "completion":" 
+U ieee!
+Avui faig tard, si m'esquitxes, cargol iroquès;
+a veure un cel blau i les cuixes que té la Remei;
+avui l'he vist a la porta d'en Pau panader,
+provant els 'sobaos', i duia les calces de paper.
+A cada col un dos, mira, mira quin cos,
+a mitja carretera prop de Manacor,
+a aquell que m'esquitxi li capgiraré el gos,
+si petges la petjada i menges macarrons.
+Amics: ja en tinc prou, n'estic fins els ous, ara bé…
+si torna el 'hippie' d'en Pau, vestit de babau, mataré.
+A cada ós un gos rabassut i galdós,
+en Pitxi té un caniche que m'escriu les cançons;
+la dona de fer feines m'ha perdut uns mitjons;
+no trobo la manera de menjar macarrons.
+Un gos sense os, univers de colors,
+prepara't per fer feina, duc un sac de cargols,
+ja saps que m'agraden les politges dels pous,
+encara no m'heu vist menjar macarrons.
+END"}
+{"prompt":"", "completion":" 
+Diu que l'amor es nodreix de l'absència; 
+no ho sé pas, no ho crec. 
+Quan tu no hi ets sóc més aviat bèstia, 
+ceballut, beneit ; 
+un gamarús, tabalot i ganàpia, 
+un ximple, pallús. 
+Turista en el teu cos, 
+vols de cotorres de colors llampants 
+i un monosíl·lab t'ha fet enlairar; 
+vaig de vacances al teu cel blau. 
+Te'n vas, sóc capsigrany, 
+Sóc gris i dropo, talòs, destraler; 
+un tòtil pertorbat, 
+cabut, llampat i atrotinat. 
+Diu que l'amor es nodreix de l'absència; 
+no ho sé pas, no ho crec. 
+Quan tu no hi ets sóc més aviat bèstia, 
+ceballut, beneit. 
+El nostre amor es nodreix de manyagues, 
+Manetes, petons. 
+Al teu costat em floreix l'intel·lecte. 
+Si no hi ets sóc llosc.END"}
+{"prompt":"", "completion":" 
+Avui no estic inspirat i no crec que cap dia ho hagi estat, 
+mitja vida sense tu i l'altra mitja encara sense mi. 
+inspira'm tu com sempre has fet, inspira'm i t'inspiraré 
+torna'm al mon que junts vam fet, perdut per sempre més 
+i dóna'm el consol del teu herètic sacrament, 
+com un beat vull enfilar-me al cel. 
+Des de lluny t'he cridat en la boira, tu de lluny em cridaves a mi, 
+i t'has vist obligada a estimar-me, com catòlics ens hem fet patir 
+Correré com un boig a buscar-te, abans no se'ns acabi la nit 
+massa copes i massa paraules, massa idiotes i massa neguit 
+Un estúpid pensament que és fet a mida per a una cançó; 
+si t'agafa bé es bonic, si hi penses massa estona és un corcó. 
+Massa 'xistes' estúpids i unànimes, 
+massa anys, massa amor, massa nits, 
+riu amb mi fins que et faltin les forces, la comèdia no s'acaba aquí 
+Correré com un boig a buscar-te, abans no se'ns acabi la nit 
+massa copes i massa paraules, massa idiotes i massa neguit 
+Correré com un boig a trobar-te, amb la ment emboirada pel vi 
+massa fred per a voltar per la plaça, massa escèptic per a fer-te feliçEND"}
+{"prompt":"", "completion":" 
+Avui no estic inspirat i no crec que cap dia ho hagi estat,
+mitja vida sense tu i l'altra mitja encara sense mi.
+inspira'm tu com sempre has fet, inspira'm i t'inspiraré
+torna'm al mon que junts vam fet, perdut per sempre més
+i dóna'm el consol del teu herètic sacrament,
+com un beat vull enfilar-me al cel.
+Des de lluny t'he cridat en la boira, tu de lluny em cridaves a mi,
+i t'has vist obligada a estimar-me, com catòlics ens hem fet patir
+Correré com un boig a buscar-te, abans no se'ns acabi la nit
+massa copes i massa paraules, massa idiotes i massa neguit
+Un estúpid pensament que és fet a mida per a una cançó;
+si t'agafa bé es bonic, si hi penses massa estona és un corcó.
+Massa 'xistes' estúpids i unànimes,
+massa anys, massa amor, massa nits,
+riu amb mi fins que et faltin les forces, la comèdia no s'acaba aquí
+Correré com un boig a buscar-te, abans no se'ns acabi la nit
+massa copes i massa paraules, massa idiotes i massa neguit
+Correré com un boig a trobar-te, amb la ment emboirada pel vi
+massa fred per a voltar per la plaça, massa escèptic per a fer-te feliç.
+END"}
+{"prompt":"", "completion":" 
+Proposta de cançó moderadament 'patxanguera'
+que representi Andorra a Eurovisió.
+Sóc lluny de casa, peixo al prat foraster
+i com enyoro la cort!
+T'estimo com s'estima el xai al pastor;
+si em tires pedres tinc por.
+Del xai vull la llana, de la vaca el braguer,
+trenquem la banca dels déus!
+Teixits adiposos, cosmonautes aqueus
+i pastorets arameus.
+Hi ha cloves i closques per ordir collarets;
+a dojo deixo que ragi el vers;
+babaus circumspectes ja podeu aplaudir,
+però això no s'acaba aquí.
+T'estimo massa,
+sóc massa bo;
+cap a tu corro:
+ma massa per sa acceleració.
+T'estimo, oh massa!
+Lloem Déu!
+si tu m'estimes,
+un dia seré teu.
+Aquests últims versos els faré descriptius,
+la mussa em dóna peixet:
+un carrer massa ample d'edificis altius
+i un home massa baixet.
+T'estimo massa,
+sóc massa bo;
+cap a tu corro:
+ma massa per sa acceleració.
+T'estimo, oh massa!
+Lloem Déu!
+si no m'estimes,
+jo mai no seré teu.
+END"}
+{"prompt":"", "completion":" 
+Matem els dimarts i els divendres,
+matem i ho fem ràpid i bé.
+Tinc talent per a l´escorxamenta
+i em diuen 'lo bell carnisser'.
+Moren els xais i les vedelles,
+moren pollastres i ànecs muts.
+Ara ve el solo de guitarra
+aprofiteu per anar al bar
+mentre esmolem els ganivets.
+Si s´equivoca el guitarrista
+i confon major per menor,
+l´apuntem per matar divendres,
+amb la màxima discreció.
+ 
+END"}
+{"prompt":"", "completion":" 
+Carboni amb àtoms d’hidrogen, i micro-voltatges, dansa d’electrons. Paraules que es fonen en l’aire, i queden les notes, prosperen els sons. Llums de tots colors, boira molecular; sediments antics, plantes i animals. Oxigen, compostos orgànics,hidrats de carboni, amor molt petit. Matèria orgànica.
+END"}
+{"prompt":"", "completion":" 
+La meva dona m'espera a casa.
+La gossa ha tingut cadells.
+Li porto mitges dels meus viatges
+i flors per als seus cabells.
+Té mans tan blanques com les muntanyes al bell mig de l'hivern.
+La vida és dura però ara no importa.
+Me'n torno a casa content.END"}
+{"prompt":"", "completion":" 
+'I' i 'o', vocals.
+'A', 'e', 'i', 'o', 'u', vocals per tu.
+No gasto consonants, els poetes som així.
+Menja i calla, amor.
+Menja i calla, amor.
+Menja't els animals i els vegetals,
+beu-te tots els fluids, que només quedem tu i jo.
+De l'ànima al rebost, provem d'albirar
+la llum d'un món millor, magnètic i acollidor.
+Menja i calla, amor.
+END"}
+{"prompt":"", "completion":" 
+Cap pelat, vestit d'astronauta;
+rosa d'abril, micos a la cara.
+Un xicot enterra la sardina;
+poc que li cal, ja la tenia enterrada.
+Carnaval, festa senyalada,
+rius de gent, rucs de tota mena.
+Carnaval, ja te'l ben regalo,
+la resta de l'any, ja fotem prou pena.
+Fred i neu, mocs de la canalla,
+si se't fa tard, pots anar a dormir a la palla.
+Vols sentir la joia de viure,
+fes-t'ho mirar que fas pixar de riure.
+Carnaval, és temps de mascarades,
+la bona gent, s'intoxica a consciència.
+Carnaval, vòmits i pixarades,
+ja passarà, cal tenir paciència.
+END"}
+{"prompt":"", "completion":" 
+Canto amb el cap,
+que el cor el tinc pansidet,
+aviat se'm va eixugar,
+el mil nou-cents seixanta-set.
+Faig versos d'adolescent
+plens de llunes i de miralls;
+de lliris, roses, clavells
+i sensacions a la pell.
+Som d'eixe món?
+potser sí, potser no.
+D'un món de gorres de cop
+i cavallets de cartró.
+D'insuls purament locals,
+com beneit o capsigrany;
+que no havíem conegut
+beneits internacionals.
+Ferotge, arriba un orat,
+no llegeix res perquè és ferreny,
+diu que els clàssics no els entén
+i els moderns encara menys.
+Qui fos sant, qui fos déu; qui fos creient o ateu.
+Voltat d'àngels al cel pujar.
+Qui fos ximple i badoc, sense seny o amb molt poc;
+activista al ciberespai.
+Quants viatges absurds haurem de planejar
+per fugir del cercle familiar?
+Quants esports d'aventura ens haurem d'inventar
+per entretenir el bestiar?
+Canto amb el cap,
+i encara ple de licor;
+poso espelmes als sants
+per a tornar a cantar amb el cor.
+Ara tothom sembla vell,
+la gent gran, fins el jovent.
+Per això t'enyoro tant,
+mil nou-cents seixanta-set.
+END"}
+{"prompt":"", "completion":" 
+Un porronet de garnatxa
+i un plat amb quatre 'brunyols',
+et vindré a treure de casa,
+anem a caçar cargols.
+Si els cargolets no corressin
+perquè aquest any no ha plogut
+caçarem uns quants espàrrecs
+per acompanyar el vermut.
+El pare em fa anar a la vinya
+i la mare em fa el dinar
+i jo només vull ser músic
+per a veure't en ballar.
+Veient com balles nineta
+m'hi passaria la nit
+però he de tornar aviat a casa
+que encara sóc molt petit.
+Si es fa tard, marxo sol
+'al millor' de la nit.
+Tu ballant, jo perdut;
+trist destí ser petit.
+Un porronet de... anem a caçar cargols.
+Quan sigui gran seré músic,
+tu escoltaràs les cançons
+i el nostre amor tindrà lletra
+i música el nostre cor.
+Si em vols dir que m'estimes,
+digues-m'ho a la foscor.
+Tot el que jo t'hauré de dir,
+t'ho diré a les cançons.
+END"}
+{"prompt":"", "completion":" 
+Montserrat, Montserrat, enfilem-nos al teulat
+i provem si el vi de l'any ha sortit bo.
+Anem a l'envelat i ballem el fanalet,
+demanem als músics la nostra cançó.
+A parir panteres les lliçons.
+Les ruïnes de Grècia i en Plató,
+i tots els filòsofs i els prohoms.
+A parir panteres el Nadal,
+els bèsties resultats del futbol
+i la rabiosa actualitat.
+Tristes nits
+d'un país trist
+on ningú riu i mai no hi plou.
+T'enyoro tant
+que si pogués
+m'enviara per correu.
+Montserrat, Montserrat, enfilem-nos al teulat
+i provem si el vi de l'any ha sortit bo.
+Anem a l'envelat i ballem el fanalet,
+demanem als músics la nostra cançó.
+Passen els dies i les setmanes,
+passen els mesos i passen els anys.
+Tot el que passa s'acaba un dia,
+i el que s'acaba torna a passar.
+Professor, professor, torni a explicar tot això
+que la Montserrat i jo no l'hem sentit.
+És el meu ratolí, la bóta on guardo el vi,
+l'airet que ve del mar a l'estiu.
+Montserrat, Montserrat, saps que sempre t'he estimat,
+jo he estat sempre l'avió i tu pilot.
+Montserrat, Montserrat, saps que mai no t'he traït,
+ni a les religions que tu has seguit.
+I la nit de Sant Joan ens banyarem en xampany,
+com fan els artistes que admirem.END"}
+{"prompt":"", "completion":" 
+Estereofònic se sent l'udol
+del vent atòmic dins d'un perol.
+L'espanta-sogres avariat
+n'espanta poques i amb molt poc espant.
+Muntanyes de Lesotho; ie-ie, canta el pastor;
+pasturen les cabretes, saliven els voltors.
+Plora la pluja i ploro jo;
+ai quina mandra... ciutadans del món,
+xarrupen la sopa, fan massa soroll.
+El gos número quatre a posició dinou,
+senyora trenta-quatre a senyor vint-i-dos.
+Un déu de via estreta, organitzant el món.
+Muntanyes de Lesotho, cabretes i voltors.END"}
+{"prompt":"", "completion":" 
+Mª Dolors, ningú no sap on estàs; 
+vas marxar un dia de gener glaçat. 
+Si et trobo sabré que l'estiu ha tornat; 
+si rius tots sabran que la nit s'ha acabat. 
+  
+Guardo una flor en un llibre tancat, 
+que em vas donar quan el cel era blau. 
+Si et trobo et diré que t'estimo com sempre 
+i si rius sabré que l'hivern s'ha acabat. 
+  
+Mª Dolors, ningú no sap on està; 
+va marxar un dia de gener glaçat. 
+No estic trist ja sé que la vida és així, 
+però tinc una flor en un llibre tancat. 
+END"}
+{"prompt":"", "completion":" 
+Quatre cacatues, ei!, nascudes en captivitat en la freda foscor del circ, que és tot
+el que han pogut copsar. Pallassos arraulits de fred sota un camió de bombers; va
+conill el domador i diu que no fa el fred d'abans.
+Quatre cacatues, ei!, en gàbies de metalls estranys; els arriba la flaire dels pins,
+conciliàbul d'assassins. Ja criden els jubilats pels altaveus rovellats,que els
+espera l'autobús. Diu que no fa el fred d'abans.
+END"}
+{"prompt":"", "completion":" 
+Qui són aquesta gent? Qui són aquesta gent? 
+I què hi pinto jo enmig d'ells? 
+Qui són aquesta gent? Qui són aquesta gent? 
+Aquí jo no hi tinc res a fer. 
+  
+No vull parlar i no vull ser simpàtic. 
+No vull parlar, només vull estar amb tu. 
+Enmig de tots jo no hi puc respirar. 
+No puc. No puc. 
+  
+Qui són aquesta gent? Qui són aquesta gent? 
+I què hi pinto jo enmig d'ells? 
+  
+No vull parlar i no vull ser simpàtic. 
+No vull parlar, 
+només vull estar amb tu. 
+Enmig de tots jo no hi puc respirar. 
+No puc. No puc. 
+  
+Qui són aquesta gent? 
+Qui són aquesta gent? que semblen tan intel·ligents. 
+Qui són aquesta gent? Qui són aquesta gent? 
+Aquí jo no hi tinc res a fer. 
+  
+Treu- me d'aquí ja no tinc més paciència. 
+No vull parlar, només vull estar amb tu. 
+Enmig de tots jo no hi puc respirar. 
+No puc. No puc. 
+ END"}
+{"prompt":"", "completion":" 
+L'estiu pot ser tan trist
+com les seves cançons.
+Trens de la bruixa desmuntats
+als pàrquings per a camions.
+Un vent polsós i calent del sud
+fa voleiar els papers.
+Penso en Voltaire i els Gipsy Kings;
+dec ser un intel·lectual.
+L'humor és l'anarquia
+que triomfa per uns breus instants;
+no sé d'on ho he tret, …a on ho he llegit,
+potser fins m'ho he inventat jo.
+Vull cantar a l'Amor, ara que encara hi sóc;
+vull la lluna en un cove i els núvols de cotó.
+Oh My Love, My Love, festeig de colors,
+jaurem torrats pel sol.
+Oh My Love, My Love, que els errors més greus
+encara no els hem pas comès.
+Qui són els dolents? Qui són els bons?
+El nostre àngel custodi s'ha mort.
+Qui som? On som? Perquè encara posem
+domassos als balcons?
+Vine'm a buscar, treu-me a passeig;
+voltem agafats de la mà.
+Oh My Love, My Love, estic trist i sol
+…puc ser més vanitós?
+Oh My Love, My Love, i ho dic sense por:
+l'oblit serà agradós.
+Oh My Love, My Love, sortim a passeig,
+t'ompliré de petons.
+Oh My Love, My Love, t'ho dic en anglès,
+i així potser m'entén tothom.
+END"}
+{"prompt":"", "completion":" 
+On vas, cowboy, tan eixirit, galopant pel terrós?
+Sembles de Cincinnati, però vas néixer a Palamós;
+somrius a les senyores, xiuxiueges als cavalls,
+no dónes treva a l'indi bel•licós.
+Amb posat circumspecte, t'enfrontes al teu destí.
+Qui sóc? On sóc? I amb quin fi? / On vaig? I d'on vinc?
+I el teu cavall s'emprenya amb l'excés d'introspecció
+i et catapulta enlaire amb gran delit.
+Esterrossat com un titella, veus com es pon el sol
+i els fanals del polígon tenyeixen el món de groc.
+El sentit de la vida és mala peça al teler;
+que passi el peix espasa d'Oregon.
+END"}
+{"prompt":"", "completion":" 
+Quan calla el piano, renilla la nit
+el seu renill d'aire comprimit.
+A places horribles, pixen gossets mudats
+i panseixen les floretes dels jardins.
+Hibernat, planifica el seu futur l'ós bipolar;
+dolçament, avalua el diagnòstic dels doctors;
+és feliç, somnolent sota l'aurora boreal;
+dins del cau, deixa la ment divagar per mons millors.
+Dones femenines i homes masculins
+reciclen residus radioactius
+i torna el piano, s'evapora la nit,
+hi ha gossets milionaris adormits.
+Cau la neu, blanca i pura com les illes de l'Egeu;
+lentament, s'esmicolen les glaceres dins del mar;
+xiula el vent, melodies inquietants en sol menor;
+canta l'ós, la tornada del seu himne bipolar.
+END"}
+{"prompt":"", "completion":" 
+Quan calla el piano, renilla la nit
+el seu renill d'aire comprimit.
+A places horribles, pixen gossets mudats
+i panseixen les floretes dels jardins.
+Hibernat, planifica el seu futur l'ós bipolar;
+dolçament, avalua el diagnòstic dels doctors;
+és feliç, somnolent sota l'aurora boreal;
+dins del cau, deixa la ment divagar per mons millors.
+Dones femenines i homes masculins
+reciclen residus radioactius
+i torna el piano, s'evapora la nit,
+hi ha gossets milionaris adormits.
+Cau la neu, blanca i pura com les illes de l'Egeu;
+lentament, s'esmicolen les glaceres dins del mar;
+xiula el vent, melodies inquietants en sol menor;
+canta l'ós, la tornada del seu himne bipolar.
+END"}
+{"prompt":"", "completion":" 
+Paisatge amb anxova, ma nina bonica, 
+em moro de pena i no sé perquè; 
+tinc pena dels braços que són com cametes; 
+voldria estimar-te però no hi ha conyac. 
+La nit s´abraona a sobre la tarda 
+i a cada cameta hi ha un peu al final 
+i a cada sabata un cordonet blau. 
+Rodanxa de lluç, manat d´avellanes; 
+el dia de Corpus jo et vull festejar 
+i dur-te a la fira vestit de notari 
+i en el teu parrús vull quedar-mi acampat. 
+Em ploren els ulls... 
+..i què vols que em plori! 
+Paraules gastades, tropells de poetes, 
+com lluna i estrelles i l´aigua de mar; 
+maragdes i perles, carxofes i naps. 
+Paisatge amb anxova, nineta bonica, 
+la vida no és curta, que ens ha enganyat; 
+tots aquells 'adonis' són vells que s´arruguen, 
+a mi no em fan pena, jo sí que me'n faig.END"}
+{"prompt":"", "completion":" 
+Paisatge amb anxova, ma nina bonica,
+em moro de pena i no sé perquè;
+tinc pena dels braços que són com cametes;
+voldria estimar-te però no hi ha conyac.
+La nit s´abraona a sobre la tarda
+i a cada cameta hi ha un peu al final
+i a cada sabata un cordonet blau.
+Rodanxa de lluç, manat d´avellanes;
+el dia de Corpus jo et vull festejar
+i dur-te a la fira vestit de notari
+i en el teu parrús vull quedar-mi acampat.
+Em ploren els ulls...
+..i què vols que em plori!
+Paraules gastades, tropells de poetes,
+com lluna i estrelles i l´aigua de mar;
+maragdes i perles, carxofes i naps.
+Paisatge amb anxova, nineta bonica,
+la vida no és curta, que ens ha enganyat;
+tots aquells 'adonis' són vells que s´arruguen,
+a mi no em fan pena, jo sí que me'n faig.
+END"}
+{"prompt":"", "completion":" 
+Encara penso en tu quan rego els geranis
+i esquitxo algun vianant que prou s'ho mereix.
+Pamela, t'he tornat a trucar, ja és primavera;
+ja ha despertat el poeta de la hibernació
+i els esquiadors desen els seu estris
+i els seus vestits delirants van al penjador.
+I mira que n'estem de contents, tornen els insectes
+i tots els criminals de guerra surten a fer esport.
+En aquests països del sud que són tan 'alegres',
+si calles una estoneta sembles intel·ligent.
+Passejo pel supermercat, feliç, darrere el meu carro,
+m'agradaria ser més discret però no hi puc fer res.
+No aprofitem a fons el cervell, ho he llegit en una revista;
+la vida és un afer complicat, fem el que podem.
+Pamela, em dius per whatsapp que encara m'estimes
+I jo et contesto: ...'i és clar que jo també'.
+Anem al cinema plegats i farem manetes;
+i passarem junts totes les tardes fins l'hivern que ve.
+....Pamela!
+END"}
+{"prompt":"", "completion":" 
+Encara penso en tu quan rego els geranis
+i esquitxo algun vianant que prou s'ho mereix.
+Pamela, t'he tornat a trucar, ja és primavera;
+ja ha despertat el poeta de la hibernació
+i els esquiadors desen els seu estris
+i els seus vestits delirants van al penjador.
+I mira que n'estem de contents, tornen els insectes
+i tots els criminals de guerra surten a fer esport.
+En aquests països del sud que són tan 'alegres',
+si calles una estoneta sembles intel·ligent.
+Passejo pel supermercat, feliç, darrere el meu carro,
+m'agradaria ser més discret però no hi puc fer res.
+No aprofitem a fons el cervell, ho he llegit en una revista;
+la vida és un afer complicat, fem el que podem.
+Pamela, em dius per whatsapp que encara m'estimes
+I jo et contesto: ...'i és clar que jo també'.
+Anem al cinema plegats i farem manetes;
+i passarem junts totes les tardes fins l'hivern que ve.
+....Pamela!
+END"}
+{"prompt":"", "completion":" 
+Adéu! Jo vaig passant, les hores fugen i farem salat;m'enduc menjar enllaunat i
+antics diplomes pansits i ratats.Vietcong, coses d'abans, la trista margarina dels
+croissants;sabates de cocodril, udols depriments dels gossos engabiats.
+Hecatombe a l'aviari, algú celebra un centenari.
+Floristes i camells venen meravelles als passerells;usuaris emprenyats criden
+per megàfons avariats.Passi, que a mi ja em fan; tots vàrem créixer en algun
+barri estranyon lluitàvem plegats per sortir de l'obscur anonimat.
+Tornen els amors platònics en vespinos supersònics;autos de xoc, parvularis i
+esmolets atrabiliaris. (Mesopotàmia).
+Llums de Mesopotàmia, pampallugues a la ment;decisions i misteris, per a què
+servim realment?Rondalles i llegendes de quan tot això eren prats;sona un grup
+de tribut a un artista inexistent.Moments inoblidables que tothom oblidarà;naixem
+sense res a dir, tot ens ho hem d'inventar.
+END"}
+{"prompt":"", "completion":" 
+Concerto grosso, la nit d'estrena, hi ha trompetes embussades de cançons. «Això
+és magnífic, és un miracle!», bramula el públic des del galliner. En camionetes
+abonyegades, han arribat des dels barris més allunyats; són supersònics, són
+enigmàtics, però la família els veu com uns eixelebrats.
+Pànic, pànic escènic amb corimori, suor freda i tremolors. A camerinos poc
+antisèptics, cantants que escalfen els aparells fonadors.
+Sonen orquestres destarotades, lladrucs de gossos i llumetes de colors mentre
+grinyolen els mecanismes que fan que voli l'angelet dels Pastorets.
+Pànic, pànic escènic amb corimori, suor freda i tremolors. Bullen les llotges d'un
+amor fràgil; licors concèntrics i pastilles de colors. Hi ha pubilles massa boniques
+enamorades de fadrins curts de gambals. S'esperen pluges i pedregades, faran
+destrosses però ompliran els gavadals. Pànic, pànic escènic amb corimori, suor
+freda i tremolors. A camerinos poc antisèptics, cantants elèctrics resen velles
+oracions.
+END"}
+{"prompt":"", "completion":" 
+No engeguis la ràdio, no calla mai, 
+massa noticies al meu cap. 
+Als hotels llardosos, músics malalts 
+i noies boniques amb massa perfum. 
+  
+Para que baixo, nena, potser serà millor; 
+no em fa il·lusió el viatge
+i no em fa falta amor. 
+  
+Lladres de guitarres proven locions 
+per a la caiguda dels cabells. 
+Vine al meu cor, si vols anar al desert 
+cremat per la flama de l´enyor. 
+  
+Para que baixo, nena, 
+serà millor; 
+no em fa il·lusió el viatge
+i no em fa falta amor. 
+És massa tard per perdre 
+i per guanyar; 
+a la finestra buida, un arbre de cartró. 
+  
+Terres clares i nues, clares com tu; 
+rosella perfumada i ferros rovellats. 
+  
+Para que baixo, nena, 
+serà millor; 
+no em fa illusió el viatge
+i no em fa falta amor. 
+És massa tard per perdre 
+i per guanyar; 
+a la finestra buida un món fet de cartó. 
+Para que baixo, nena, 
+serà millor; 
+no em fa il·lusió el viatge
+i no em fa falta amor.END"}
+{"prompt":"", "completion":" 
+No has trepitjat Alemanya;
+no sé perquè et diuen pastor alemany?
+Ho empaites tot i no atrapes res,
+mosques, grills i sargantanes.
+Vols treballar per l'FBI
+però només mossegues sabates.
+Veus un gat i surts corrent en estampida,
+ditxós tu, que trobes sentit a la vida.
+Els caps de setmana et banyen en una palangana;
+i xop com un ànec, fuges amb la cua entre les cames.
+I cada nit sols somiar
+que ets un heroi televisiu;
+i fugen els lladres!
+Cagats de por pels teus lladrucs.
+Vine pastor alemany, dóna'm la pota;
+el teu ancestre era un llop i tu, una mascota.
+END"}
+{"prompt":"", "completion":" 
+Pasturarem entre els lliris 
+pels voltants de Sant Andreu, 
+pixant farem punteria als ninots de neu. 
+Pampallugues, martingales; 
+seré el teu home del sac; 
+al parc hi ha un arbre nu que canta 'com un Lluís Llach'.
+Vull bastir un amfiteatre 
+i cagar-m´hi en el bell mig; 
+vull ser déu una estoneta 
+i després 'caniche'.
+Pasturarem entre els lliris, 
+tot caminant amb els peus plans 
+i ens ovacionarà el públic, moros i cristians.END"}
+{"prompt":"", "completion":" 
+Pasturarem entre els lliris
+pels voltants de Sant Andreu,
+pixant farem punteria als ninots de neu.
+Pampallugues, martingales;
+seré el teu home del sac;
+al parc hi ha un arbre nu que canta 'com un Lluís Llach'.
+Vull bastir un amfiteatre
+i cagar-m´hi en el bell mig;
+vull ser déu una estoneta
+i després 'caniche'.
+Pasturarem entre els lliris,
+tot caminant amb els peus plans
+i ens ovacionarà el públic, moros i cristians.
+END"}
+{"prompt":"", "completion":" 
+Concerto grosso, la nit d'estrena, hi ha trompetes embussades de cançons. «Això
+és magnífic, és un miracle!», bramula el públic des del galliner. En camionetes
+abonyegades, han arribat des dels barris més allunyats;són supersònics, són
+enigmàtics, però la família els veu com uns eixelebrats.
+Pànic, pànic escènic amb corimori, suor freda i tremolors. A camerinos poc
+antisèptics, cantants que escalfen els aparells fonadors.
+Sonen orquestres destarotades, lladrucs de gossos i llumetes de colors mentre
+grinyolen els mecanismes que fan que voli l'angelet dels Pastorets.
+Pànic, pànic escènic amb corimori, suor freda i tremolors. Bullen les llotges d'un
+amor fràgil; licors concèntrics i pastilles de colors. Hi ha pubilles massa boniques
+enamorades de fadrins curts de gambals. S'esperen pluges i pedregades, faran
+destrosses però ompliran els gavadals.Pànic, pànic escènic amb corimori, suor
+freda i tremolors. A camerinos poc antisèptics, cantants elèctrics resen velles
+oracions.
+END"}
+{"prompt":"", "completion":" 
+L'aixeta de la dutxa d'un home baixet,
+cosí de la Conxita i d'en Xavier
+que esquitxa les cuixetes de la Meritxell.
+Així no hi ha qui pixi, diu un peixater.
+Hi ha coixins, caixons, queixals gruixuts;
+hi som la gent eixuta que es vol fer escoltar,
+com xais fugits de l'escorxador;
+així ens hem aixecat i eixelebrats cantem:
+Peix, ens agrada dir: peix.
+I les faixes dels senyors que s'han engreixat
+com catxalots artrítics i recautxutats.
+Els apunts de primer, segon i tercer,
+un cartellet que diu: pitxi, pitxi aquest piu.
+Digues-ho tu, el pallús del barnús,
+del cotxe en doble fila deixat al xamfrá.
+Que ho diguin les senyores vestides d'estampats
+que són admiradores de cantants il•limitats.
+Diguem-ho tots alhora perquè sona bé,
+no trobareu fonema més afortunat que:
+Peix, ens agrada dir: peix.
+Diguem-ho tots: peix.
+Que bé que sona: peix.
+Si eixalem un pollastre anestesiat d'haixix
+i li fem un desatre i ens queda impedit,
+probablement arribi el manescal Conill
+i ens digui amb vehemència: aixó no es fa així. / Peix.
+Peix (6V). Que bé que sona: peix. Peix.
+END"}
+{"prompt":"", "completion":" 
+De tant pensar en tu, em cauen els cabells. 
+De tant pensar en mi, 
+et surten arrugues i se t´apaguen els ulls. 
+  
+Potser ja ha arribat el moment d'oblidar tot allò que hem après. 
+Potser ja ha arribat el moment d'oblidar els nostres somnis i deixar-ho estar. 
+  
+Perdona´m, ja tinc el meu càstig, que és viure sense tu; 
+mentides d´amor, silenci i dolor. Petit àngel enyorat. 
+  
+Potser ja ha arribat el moment d'oblidar tot allò que hem après. 
+Potser ja ha arribat el moment d'oblidar els nostres somnis i deixar-ho estar. 
+  
+La vaca que riu, que riu per no plorar. 
+Pensar és la forma més sofisticada de mentir. 
+No escoltis, no val la pena, el que dic ja ho han dit; 
+cançons fermentades, veus desafinades, mentides en clau de sol. 
+  
+Oblida tot el que has après, és absurd i no serveix per a res; 
+oblida tot el que t´han dit, et fa nosa i no té cap interès. 
+Potser ja ha arribat el moment d´oblidar tot el que hem aprés. 
+Estúpids refranys populars, poca-soltes i bèsties que ens fan ignorants. 
+Potser ja ha arribat el moment d'oblidar tot allò que hem après. 
+Potser ja ha arribat el moment d'oblidar els nostres somnis i deixar-ho estar.
+END"}
+{"prompt":"", "completion":" 
+Jo no tinc les paraules per a dir el que vull de tu; 
+i si algun dia les trobo, podré deixar de cantar. 
+  
+Sóc una persona estranya, 
+des de sempre m'ho han dit... 
+i potser t'estimo massa, 
+però no depèn de mi. 
+  
+Vaig baixar de les muntanyes buscant-te a tu; 
+vaig deixar la meva casa només per tu. 
+Quan aconsegueixi dir amb paraules el que vull de tu; 
+quan aconsegueixi fer el que vull fer amb tu, 
+podré deixar d'existir. 
+  
+No queda ni un continent nou per descobrir; 
+no queden rius per a explorar, 
+ni búfals per a caçar. 
+  
+Per això som persones estranyes, 
+aventures perduts; 
+i per això ens estimen massa 
+pero no depèn de tu. 
+  
+Jo no tinc les paraules per a dir el que vull de tu; 
+i si algun dia les trobo, podré deixar de cantar. END"}
+{"prompt":"", "completion":" 
+Petita vida sense cap déu, petites alegries per al cos i per a la ment.
+Amb sabatilles, amb sabatots, balla la terregada els ritmes del moment.
+La roba estesa s'eixuga al sol i el sortilegi de la música que tot pecat absol.
+Hi ha balladores de peu lleuger que tenen noms altament romàntics com Pilar o
+Roser. Punts i comes, versos abrandats, canten rapsodes sense família,
+abandonats.
+I ve la pluja i els llamps i els trons, i sota els porxos, a aixopluc, hi reverberen els
+amors.Anestesistes enamorats i el sortilegi de la música que tot pecat absol.
+Petita vida, petita mort, minúscula memòria, microscòpic amor.Que algú ens
+expliqui què volen dir aquests que diuen: «Que la terra et sigui lleu!»
+END"}
+{"prompt":"", "completion":" 
+Com un lliri de platja vinc net i polit, 
+la perruca planxada i el dentat lluent; 
+ja el voldrien tenir molts, un cos com el meu. 
+Duc a la cartera un bitllet de cent, 
+dues fotos grogues i un paper que diu: 
+...'aquest noi progressa adequadament'. 
+Observeu els gossos, si en són de senyors 
+que es graten l´orella amb les potes posteriors. 
+Bípedes inútils, milions de micos cabuts; 
+caminem erectes però ens enterren ajaguts. 
+Els anys passen llestos i a les postres som on som; 
+jo fins m´he cansat de progressar; 
+...i creix la sospita de que devia existir 
+un camí més curt per venir aquí. 
+Com un lliri de platja vinc net i polit, 
+la perruca planxada i el dentat lluent; 
+ja el voldrien tenir molts, un cos com el meu. 
+Només una cosa diu mon testament... 
+feu-me fer una làpida que digui així: 
+...'aquest noi progressa adequadament'.END"}
+{"prompt":"", "completion":" 
+Com un lliri de platja vinc net i polit,
+la perruca planxada i el dentat lluent;
+ja el voldrien tenir molts, un cos com el meu.
+Duc a la cartera un bitllet de cent,
+dues fotos grogues i un paper que diu:
+...'aquest noi progressa adequadament'.
+Observeu els gossos, si en són de senyors
+que es graten l´orella amb les potes posteriors.
+Bípedes inútils, milions de micos cabuts;
+caminem erectes però ens enterren ajaguts.
+Els anys passen llestos i a les postres som on som;
+jo fins m´he cansat de progressar;
+...i creix la sospita de que devia existir
+un camí més curt per venir aquí.
+Com un lliri de platja vinc net i polit,
+la perruca planxada i el dentat lluent;
+ja el voldrien tenir molts, un cos com el meu.
+Només una cosa diu mon testament...
+feu-me fer una làpida que digui així:
+...'aquest noi progressa adequadament'.
+END"}
+{"prompt":"", "completion":" 
+Si propago jo o propagues tu, 
+fem anuncis i fem propaganda. 
+Compri-ho tot aquí, no se´n penedirà, 
+ho fem com el cul però en venem d´allò més. 
+No tenim rival, som l´hòstia amb patinet, 
+som els amos del màrqueting i de la promoció. 
+Vols vendre el que tens?... Propaganda! 
+Ven-te tu mateix, fes propaganda. 
+  
+Mostres d´un món ridícul i tronat. 
+Tots a fer propaganda. 
+Monstres de l´art i de la ciència, 
+tots a fer propaganda. 
+  
+Passi per aquí a comprar, 
+doni´m a mi els calés, 
+ho fem com el cul però en venem d´allò més. 
+Confiï en mi, això és massa, 
+doni´m a mi els calés, 
+sona com el cul però es ven d´allò més. 
+  
+Mostres d´un món ridícul i tronat. 
+Tots a fer propaganda. 
+Monstres de l´art i de la ciència, 
+tots a fer propaganda. 
+Ho fem com el cul però en venem d'allò més... 
+sabem fer propaganda.
+END"}
+{"prompt":"", "completion":" 
+Hi ha qui es lleva i s'empatolla,
+s'adorm i no pot callar;
+és d'una eloqüència trista el seu alenar.
+També hi ha el que calla sempre,
+sembla que quan vol parlar
+se li esbraven les paraules dintre el pap.
+Putes paraules, buides i amargues,
+dites, refranys i cançons.
+Terra a l'Havana, tocacampanes
+amb sandàlies i mitjons.
+'He dit' …diuen als discursos;
+ha dit el conferenciant.
+La claca s'aixeca i pica de mans.
+Clausurada l'assemblea, escolta què diu la gent;
+la xicota diu al xicot: 'hem de parlar'.
+Hem de parlar d'això que ens passa
+i de tot el que ens pot passar
+i del sol que tot ens ho eixuga
+i de la pluja que ho deixa moll.
+I si callem d'una vegada?
+Foteu el favor de callar!
+I que parli l'oracle mut,
+que cantin les muses en si bemoll.
+Putes paraules, contes de fades,
+sopars de duro avorrits;
+veles i amarres, terres estranyes,
+dones nues i mosquits.
+Putes paraules, nimfes i faunes,
+naufraguen les emocions.
+Burros que volen, àngels que cauen;
+sagues, faules i sermons
+(…i cançons).
+END"}
+{"prompt":"", "completion":" 
+Maleeixo el dia que et vaig trobar, 
+però si m'afusellen, et juro que cridaré el teu nom. 
+Vam ser feliços com ningú a aquest món 
+i tu vas dir-me:... ¡què en farem del nostre amor? 
+  
+No torno a casa perquè mai n'he tingut; 
+vaig deixar-ho tot per a córrer al teu costat 
+i tu vas dir-me:... què en farem del nostre amor? 
+  
+Ets tots una dona i jo sóc un nen, 
+però si m'afusellen et juro que cridaré el teu nom. 
+Algú m'allunya, em deixo arrossegar; 
+de totes maneres, et juro que mai no havia estat tan sol. 
+  
+Tu saps que vam néixer per a estar junts, 
+dels nostres somnis en va sortir un món nou 
+i tu vas dir-me:... què en farem del nostre amor? 
+  
+Què en farem del nostre amor? 
+Què en farem del nostre amor? 
+Què en farem del nostre amor? 
+Amor! 
+  
+No torno a casa perquè mai n'he tingut; 
+vaig deixar-ho tot per a córrer al teu costat 
+i tu vas dir-me:... què en farem del nostre amor? 
+  
+Maleeixo el dia que et vaig trobar, 
+però si m'afusellen, et juro que cridaré el teu nom. 
+ 
+END"}
+{"prompt":"", "completion":" 
+Homes i dones del cap dret.
+D'esquena al mar i a la muntanya; 
+completament al marge de l'activitat industrial; 
+sota una col, canta el poeta:
+Des d'una àrea de servei, 
+la meva terra 
+és com un parrac grapejat; 
+un país vençut pel davant 
+i pel darrere; 
+d'atrotinada dignitat. 
+Adéu turons amics, 
+adéu rieres, 
+boscos d'alzines i de roures i fagedes. 
+Muntanyes del meu cor, 
+adéu estrelles, 
+adéu al mar pur de cristalls i de turqueses.
+Lleugerament trastocat, el poeta continua cantant:
+Sona una guitarra 
+i el solet no vol surtir; 
+a veure la terra promesa 
+com fa el seu darrer sospir. 
+Hola pudors d'inferns, 
+brutes i abjectes; 
+d'animals escorxats, sentor de sang i merda. 
+Adéu olors d'abans: 
+fenc, trepadella; 
+d'espígol dolç i farigola a l'escudella. 
+Adéu amor, bonica, 
+la millor amiga, 
+adéu rateta que escombrava l'escaleta. 
+I allà a sota una col, 
+canta el poeta: 
+homes i dones del cap dret, 
+adéu per sempre.END"}
+{"prompt":"", "completion":" 
+La Història ensenya les tripes
+i jo somio despert.
+Diuen que el món s'escalfa
+però jo encara em moro de fred.
+S'apaga el sol, la vida vola;
+s'esbrava el somni i el desig.
+Beneiteria tova, rucades quotidianes;
+esteu escoltant Ràdio infern.
+Però no hi ha foc ni brases,
+de ben segur que tindreu fred.
+Riu amunt es congria una tempesta.
+La Natura …quina bestiesa gegantina!
+Però …i que bé que ens ho passem!
+END"}
+{"prompt":"", "completion":" 
+Vora els rius de Babylon,
+allà hi vàrem seure
+i vàrem plorar tot recordant Zion.
+Quan un dia…
+s'ens van endur en captivitat
+i a sobre ens feien cantar;
+doncs com vols que cantem al Senyor
+lluny de la nostra llar.
+Fes que els mots que et diem
+i les meditacions del nostre cor,
+dignifiquin el teu nom aquesta nit.
+Vora els rius de Babylon,
+allà hi vàrem seure
+i vàrem plorar tot recordant Zion.
+No ens demanis què vol dir això,
+no en tenim ni idea,
+només traduïm,
+ja passem prou pena.
+END"}
+{"prompt":"", "completion":" 
+Hi ha dones nues, a Sabadell 
+i tanques de pues amb plomes d´ocell. 
+Divorciats pansidets, 
+fan cerimònies a déus baratets; 
+teràpies naturals, 
+amb energies i meridians. 
+Sabadell, bell Parnàs 
+que amb els ulls negats lloa el cantant: 
+si bemoll, mi, fa, sol... 
+supositoris de clembuterol. 
+Som a la glòria, a Sabadell; 
+piscines florides, nedadors mesells. 
+Pensant en paraules, parlem pensaments; 
+i els que callen fins passen per intel·ligents. 
+Sabadell intel·lectual, 
+canta 'lerele' el ciutadà del món; 
+i a l´estiu pot sucar els ous 
+a l´aigua fresca de les teves fonts. 
+Sabadell, nirvana dolç; 
+cel a la terra per a l´industrial; 
+i els hereus dels fabricants 
+se la pelen amb les dues mans.END"}
+{"prompt":"", "completion":" 
+Hi ha dones nues, a Sabadell
+i tanques de pues amb plomes d'ocell.
+Divorciats pansidets,
+fan cerimònies a déus baratets;
+teràpies naturals,
+amb energies i meridians.
+Sabadell, bell Parnàs
+que amb els ulls negats lloa el cantant:
+si bemoll, mi, fa, sol...
+supositoris de clembuterol.
+Som a la glòria, a Sabadell;
+piscines florides, nedadors mesells.
+Pensant en paraules, parlem pensaments;
+i els que callen fins passen per intel·ligents.
+Sabadell intel·lectual,
+canta 'lerele' el ciutadà del món;
+i a l'estiu pot sucar els ous
+a l'aigua fresca de les teves fonts.
+Sabadell, nirvana dolç;
+cel a la terra per a l'industrial;
+i els hereus dels fabricants
+se la pelen amb les dues mans.
+END"}
+{"prompt":"", "completion":" 
+Fes-me'n fort, fes-me'n imbècil;
+gran com un llamp,
+fi com l'artista;
+fes-me allò que en diuen especial.
+Si al sentir el tret que dóna la sortida
+he de lluitar per a deixar enrera el vencedor,
+dóna'm la força estúpida de l'ase;
+fes-me de la colla dels ases el millor.
+Vas arribar una nit d'estiu dolceta,
+pentinadeta i bruna des d'un altre món;
+i em revelares el secret dolcíssim
+que algunes noies poden revelar a alguns nois.
+Fes-me sant com un místic,
+fes-me llest i malvat.
+I si pots fes-me inútil.
+Fes-me un home guapo, savi i elegant.
+END"}
+{"prompt":"", "completion":" 
+Si es dedica un mínim d'energia 
+a la pura i simple reflexió, 
+es pot ser altra cosa que extremista? 
+Es pot evitar voler xafar-ho tot? 
+Si fa bo, ho farem a la feixa, 
+si fa vent ho haurem de fer a redós 
+però si plou, amor, haurem de fer-ho 
+al Pavelló. 
+El silenci esquitxat de paraules, 
+jo esquitxat de tu i tu de mi; 
+podem ser altra cosa que extremistes? 
+Jo, sincerament, penso que no.END"}
+{"prompt":"", "completion":" 
+Si es dedica un mínim d'energia
+a la pura i simple reflexió,
+es pot ser altra cosa que extremista?
+Es pot evitar voler xafar-ho tot?
+Si fa bo, ho farem a la feixa,
+si fa vent ho haurem de fer a redós
+però si plou, amor, haurem de fer-ho
+al Pavelló.
+El silenci esquitxat de paraules,
+jo esquitxat de tu i tu de mi;
+podem ser altra cosa que extremistes?
+Jo, sincerament, penso que no.
+END"}
+{"prompt":"", "completion":" 
+Depilats homes i dones,
+amb els tangues i els biquinis nous.
+Sunny day.
+La platja fa olor de gamba,
+d'aixelles i de pollastre a l'ast.
+Sunny day.
+Kevin, no et treguis la gorra,
+quedaràs rostit com un moltó.
+Sharon, no siguis pallussa
+i posa't la brusa que fa molt sol.
+It's a sunny day, a sunny day.
+Jo estic content, no sé per què.
+A l'ombra, tot sol, llueixo el bigoti que tot just m'he deixat.
+Em miren les dones, també em mira un gos.
+Ja veig que sóc interessant.
+La platja bull i bull el cervell dels que prenen el sol;
+a l'aigua meduses i algun cagalló,
+sirenes, herois i badocs.
+It's a sunny day, a sunny day.
+Tothom somriu, socarrimat.
+It's a sunny day, a sunny day.
+Cançons d'amor carbonitzat.
+END"}
+{"prompt":"", "completion":" 
+Depilats homes i dones,
+amb els tangues i els biquinis nous.
+Sunny day.
+La platja fa olor de gamba,
+d'aixelles i de pollastre a l'ast.
+Sunny day.
+Kevin, no et treguis la gorra,
+quedaràs rostit com un moltó.
+Sharon, no siguis pallussa
+i posa't la brusa que fa molt sol.
+It's a sunny day, a sunny day.
+Jo estic content, no sé per què.
+A l'ombra, tot sol, llueixo el bigoti que tot just m'he deixat.
+Em miren les dones, també em mira un gos.
+Ja veig que sóc interessant.
+La platja bull i bull el cervell dels que prenen el sol;
+a l'aigua meduses i algun cagalló,
+sirenes, herois i badocs.
+It's a sunny day, a sunny day.
+Tothom somriu, socarrimat.
+It's a sunny day, a sunny day.
+Cançons d'amor carbonitzat.
+END"}
+{"prompt":"", "completion":" 
+Quan la xurma em ve a buscar
+amb teies, forques i garrots,
+vaig al bosc i sóc boscà
+i a les viles sóc vilà
+però sóc sempre perillós.
+Tinc una bèstia a dintre meu
+i jo la deixo anar a passeig
+a cavall, en cotxe o a peu
+prop del Pirineu
+mirant de fer mal.
+Tinc una bèstia a dintre meu
+que malda i lluita per sortir;
+tinc una bèstia a dintre meu
+i ho juro per Déu:
+no hi ha lleis per a mi.
+Lladres i serenos, peus de porc;
+tristes serenates vora el foc.
+L'ànima em fa figa i vinc boig,
+fugen les pubilles i jo, a l'aplec, faig el boc.
+Si hi ha un conflicte i vols guanyar,
+l'altre bàndol has de destruir;
+noi, no siguis cagamiques
+que has de ser menys pacifista
+que no ho és ton enemic.
+Tinc una bèstia a dintre meu,
+les venes plenes de verí;
+m'escriu les lletres i els acords
+i és tan sols per això
+que sóc cantautor.
+Tinc una bèstia a dintre meu
+que malda i lluita per sortir;
+tinc una bèstia a dintre meu
+i ho juro per Déu:
+no hi ha lleis per a mi.
+END"}
+{"prompt":"", "completion":" 
+Quan la xurma em ve a buscar
+amb teies, forques i garrots,
+vaig al bosc i sóc boscà
+i a les viles sóc vilà
+però sóc sempre perillós.
+Tinc una bèstia a dintre meu
+i jo la deixo anar a passeig
+a cavall, en cotxe o a peu
+prop del Pirineu
+mirant de fer mal.
+Tinc una bèstia a dintre meu
+que malda i lluita per sortir;
+tinc una bèstia a dintre meu
+i ho juro per Déu:
+no hi ha lleis per a mi.
+Lladres i serenos, peus de porc;
+tristes serenates vora el foc.
+L'ànima em fa figa i vinc boig,
+fugen les pubilles i jo, a l'aplec, faig el boc.
+Si hi ha un conflicte i vols guanyar,
+l'altre bàndol has de destruir;
+noi, no siguis cagamiques
+que has de ser menys pacifista
+que no ho és ton enemic.
+Tinc una bèstia a dintre meu,
+les venes plenes de verí;
+m'escriu les lletres i els acords
+i és tan sols per això
+que sóc cantautor.
+Tinc una bèstia a dintre meu
+que malda i lluita per sortir;
+tinc una bèstia a dintre meu
+i ho juro per Déu:
+no hi ha lleis per a mi.
+END"}
+{"prompt":"", "completion":" 
+Amb les extremitats,
+toco la bateria i provo de seguir amb el baix;
+se m'enduu l'entusiasme i tinc un pal a cada mà.
+Tocar els timbals és cosa antiga,
+es veu que ho portem a la sang.
+Totes les noies em miren
+i em miren també tots els nois,
+provo de fer un somriure;
+mira que en sóc de benparit!
+Només quan toco bateria,
+el món sembla tenir sentit.
+Sí, sí.
+Toco la bateria i provo de seguir amb el baix;
+se m'enduu l'entusiasme i tinc un pal a cada mà.
+Toco els tambors de guerra i així espanto l'enemic.
+Toco la bateria,
+mira que és fàcil ser feliç.
+END"}
+{"prompt":"", "completion":" 
+Gotes de rosada, penjant con diamants 
+dels teus cabells negres i farcits de sol, 
+al cul-de-sac d'un camí oblidat, 
+a qualsevol drecera que no porti enlloc; 
+omple l´espai i atura el temps, 
+respirem amb les brànquies que tindrem demà. 
+Siguem metòdics, no ens despistem; 
+un càstig és un càstig i un premi també. 
+  
+Aplica´m el teu tractament, 
+va bé pel cos i per la ment. 
+  
+Tu, pallús, parat en un embús, 
+no dissimulis, sé que tu ets jo, 
+et mors de pena provant d´endevinar 
+qui canta a la ràdio amb tan dolça veu. 
+  
+Anuncis de cosmètics i cançons d'amor; 
+les digestions pesades i els mars d'il·lusió. 
+  
+Jugant a bales al mig del carrer, 
+no dissimulis, sé que tu ets jo. 
+Recordes els tricicles que portaven gel? 
+... i els solos de guitarra enmig de les cançons. 
+  
+Aplica´m el teu tractament, 
+va bé pel cos i per la ment. 
+Aplica´m el teu tractament, 
+es bo pel cos i per la ment. 
+  
+És per això que em trobo massa bé, 
+disfruto amb bajanades, no sóc bo per res, 
+em perdo i no raono
+com solia fer 
+i et canta el meu amor aquesta dolça veu.END"}
+{"prompt":"", "completion":" 
+Nena, me'n vaig d'aquí; 
+un cop més he de marxar. 
+Marxaré en el primer tren, 
+el tren que té el cor de pedra. 
+Si se m'escapa el primer, 
+em quedaré sempre més. 
+  
+Nena, me'n torno al món; 
+tu saps que jo no vull. 
+Marxaré en el segon tren, 
+el tren on tots estan tristos. 
+Si se m'escapa el segon, 
+em quedaré sempre més. 
+  
+Marxaré en el tercer tren, 
+el de les rodes de plata. 
+Si se m'escapa el tercer, 
+em quedaré sempre més. 
+ END"}
+{"prompt":"", "completion":" 
+Vindré a buscar-te a la tarda
+quan surtis de treballar;
+posa't les mitges vermelles,
+jo portaré vermells els mitjons.
+Vine amb mi, sortim del camí,
+explorem garrigues i busquem les fonts.
+Vine amb mi, deixem'ho tot aquí,
+ens direm mentides com en les cançons.
+Jo vinc d'un món un pèl dropo,
+no és estrany que sigui un tros de ruc;
+i provo d'espavilar-me
+però ajuda'm que sense tu no puc.
+Tornar amb tu, sortir del camí,
+canviar les guitarres pels llamps i els trons;
+i tornar a veure'ns d'amagat,
+barrejar licors fins a veure visions.
+Vine amb mi,sortim del camí,
+plorarem de riure i riurem de plorar.
+Vine amb mi, deixem'ho tot aquí,
+anem de verema cap a Perpinyà.
+Vine amb mi,sortim... les fonts.
+Si es fa tard, dormirem aquí
+i el món que funcioni sense tu i jo.
+END"}
+{"prompt":"", "completion":" 
+Rascant per trobar un altre jo,
+esperant que sigui millor, 
+demano ajut a deïtats,
+que mai ningú m´ha presentat. 
+Si no tinc res per compartir,
+no sé què hi faig en el teu món; 
+aquest no és el millor moment,
+però és l´únic moment que ara tinc. 
+  
+El ferro del fred d´un hivern massa dur, 
+l´enyorada flama de l´amor perdut, 
+la por d´estar a prop i lluny de tu. 
+  
+Dóna´m la força que no tinc,
+fes primavera la tardor, 
+encara que ara tingui por,
+encara que jo no sóc jo. 
+No em costa demanar perdó,
+és fàcil i no porta enlloc; 
+no crec que sigui això el que vols,
+estranya gent els penitents. 
+  
+Encara que ara tingui por,
+encara que jo no sóc jo, 
+dóna´m la força que no tinc,
+fes primavera la tardor. 
+Si no tinc res per compartir,
+quatre buides cançons d´amor; 
+rascant per trobar un altre jo,
+esperant que sigui millor.END"}
+{"prompt":"", "completion":" 
+Un gat groc em mira de prop i jo et miro a tu a la vora del foc 
+i suco una galeta en un bol d'anís,
+no quedarà tabac per a demà al matí, 
+Entra en Kei que és un gos pastor que quan era cadell es menjava el sabó. 
+I entra un músic dropo i arrogant, 
+mai no he vist ningú tan elegant. 
+Agafa el micro i un got de vi
+i es dirigeix al públic respectable i fi: 
+'Ja sé que quan no hi sóc us deliu per mi 
+i que visqui la mare que us va parir'. 
+És tard i vol ploure, treu-me d'aquí, 
+anem a tancar les oques, fugim de la nit; 
+serem com amants de cine, el pa amb tomata i el pernil, 
+si vols oblidar-me oblida'm, jo no t'oblidaré a tu. 
+En Mateu és un semidéu que va passar la mili a prop de Cardedeu. 
+És solter i ha vingut a peu i empaita les pubilles fins a quarts de deu. 
+En Pau és un babau que du una samarreta que demana pau, 
+la gavardina penjada d'un clau i al cap d'una estoneta és l'amo del sarau. 
+I torna el músic dropo i arrogant, 
+mai no has vist ningú tan elegant, 
+i diu al públic respectable i fi: 
+'que visqui la mare que us va parir'. 
+La Judit té massa pit i du sostenidors amb aire comprimit, 
+diu que la vida no té sentit, jo ho vaig llegir en un llibre quan era petit. 
+Un gat groc em mira de prop i jo et miro a tu a la vora del foc 
+i suco una galeta en un bol d'anís,
+no quedaran paraules per a demà al matí.END"}
+{"prompt":"", "completion":" 
+Un núvol tebi i perfumat
+ha baixat i ens ha embolicat;
+la Biblia parla sense embuts,
+tan ràpid que jo m'he perdut.
+Que no torni el sol
+a fer-nos llum
+preferim la fredor de l'antre fosc.
+No em treguis del bressol,
+no estic a punt.
+Queda't al meu costat
+i dormiré.
+Al bar hi ha un gos intoxicat,
+no sé pas què li hauran donat.
+Un 'tio' parla sense embuts,
+tan ràpid que jo m'he perdut.
+Un pam per sobre el món,
+dos pams per sota del fum,
+3 pams dóna'm un got d'aigua,
+4 pams a la fi jo seré per a tu.
+Que no torni el sol
+a fer-nos costat
+i dormiré.
+Un monjo vegetarià,
+encara no em toques un ou,
+i plantes carnívores i els bussos del corall.
+Fotògrafs de casaments,
+fa ben bé un mes que no plou,
+tenim un problema però ningú sap quin problema és.
+Un núvol tebi i costat
+i dormiré,
+callaré.
+END"}
+{"prompt":"", "completion":" 
+Montserrat, Montserrat, enfilem-nos al teulat 
+i provem si el vi de l'any ha sortit bo. 
+Anem a l'envelat i ballem 'el fanalet', 
+demanem als músics la nostra cançó. 
+A parir panteres les lliçons, 
+les ruïnes de Grècia i en Plató 
+i tots els filòsofs i els prohoms. 
+A parir panteres el Nadal, 
+els bèsties resultats del futbol 
+i la rabiosa actualitat. 
+Dolces nits d'un dolç país 
+on tothom riu i hi plou sovint. 
+T'enyoro tant que si pogués 
+m'enviaria per correu. 
+Montserrat, aquest món és un bon Cafarnaüm 
+Però avui sembla funcionar a la perfecció. 
+Anem fent com podem, 
+quan podem, el que podem, 
+...i si plou haurem de fer-ho al Pavelló. 
+Passen els dies i les setmanes, 
+passen els mesos i passen els anys. 
+Tot el que passa s'acaba un dia 
+i el que s'acaba torna a passar. 
+Professor, professor, torni a explicar tot això 
+que la Montserrat i jo no l'hem sentit. 
+Ets el meu ratolí, la bóta on guardo el vi, 
+l'airet que ve del mar a l'estiu. 
+Montserrat, Montserrat, 
+saps que sempre t'he estimat, 
+jo he estat sempre l'avió i tu el pilot. 
+Montserrat, Montserrat, 
+saps que mai no t'he traït, 
+ni a les religions que tu has seguit. 
+...i la nit de Sant Joan ens banyarem en xampany 
+com fan els artistes que admirem.END"}
+{"prompt":"", "completion":" 
+En llevar-me cada dia
+tinc un minut de desconcert;
+qui sóc? Què faig? …i què tinc?
+Faig inventari i ho veig:
+Tinc vida;
+arregladeta i feta a mida,
+circumstancial i eixerida;
+deixondida sota la pluja i el sol.
+Vida;
+bogeria desvergonyida,
+provisional però escotorida;
+no ens siguis cruel ni ensopida, no.
+Causes perdudes,
+ja podeu comptar amb mi
+per posar en qüestió tot el que sembla bo.
+Dones barbudes,
+homes pelats, vestals mamelludes;
+no els demanis pas què fan, fan la viu-viu.
+Tot el que dic són mentides,
+tot el que dic són veritats;
+al final són les mateixes parides
+les dels herois i els covards.
+Vida;
+de tots colors, de totes mides,
+feta de temps i d'autopistes
+que porten als lloc més sinistres del món.
+Vida;
+he fet un baixon però tinc vida,
+provisional però escotorida;
+no em siguis cruel ni ensopida, no.
+END"}
+{"prompt":"", "completion":" 
+Vida interior d'un lluç, miracle de miracles;
+capbussat evitant palangres d'il·lusió.
+Aquest és el seu món, aquest és el seu karma;
+les pagellides encara ho tenen pitjor,
+neixen i moren aferrades al seu roc.
+Badocs iridescents, hi ha peixos sota l'aigua
+que són com internautes buscant no sé què;
+confessen i combreguen plàncton de penombra;
+no riuen ni ploren, no fan res.
+Des d'un cafè del port jo admiro les senyores,
+comprenc que deu semblar-vos un passatemps obtús;
+no sóc artista plàstic, ni tan sols turista;
+de tant en tant vesso una llàgrima de lluç.
+END"}
+{"prompt":"", "completion":" 
+Vida social; toca´m un ou; 
+les flors del lilà ja han perdut els colors. 
+Boles de billar, vestides de dol; 
+diuen els banquers que han perdut els diners. 
+Jo et tinc a tu, a dins del meu cap; 
+l´horòscop diu que he perdut els papers. 
+És temps de canviar de cara i del cul 
+i diuen els ases que volen ser rucs. 
+  
+Tristes tardes de tardor, 
+cap al tard un llamp barrina l´aire brut. 
+La farmàcia i el mercat, 
+al lavabo hi ha un ministre congelat. 
+  
+Vida social; toca´m un ou; 
+les flors del lilà ja han perdut els colors. 
+Si jo et tinc a tu i tu em tens a mi, 
+no fem el pallús i deixem de patir. 
+Tothom té a tothom,
+ningú no té a ningú; 
+si hagués de plorar, ploraria per tu.END"}
+{"prompt":"", "completion":" 
+Wendy, què ha anat malament? Què ha fallat?
+Fa tant de temps que festegem.
+Mai vaig pensar poder plorar
+fins que vas sortir amb un altre noi.
+Oh Wendy, Wendy sol em va deixar;
+fas tant mal!
+Wendy, Wendy no perdis el cap; mai el cap.
+Wendy no et creguis a aquest mentider.
+No puc imaginar-te amb ell,
+el seu futur és massa fosc.
+Oh Wendy, Wendy em va deixar tot sol;
+fas tant mal!
+Wendy, jo no et feriria mai; no, no, no;
+quan l'amor semblava ser etern;
+no ho hem fet be.
+Mai jo no hagués imaginat
+el dia en què em vaig llevar
+i la meva Wendy em va deixar tot sol.
+Wendy, Wendy sol em va deixar; fa tant mal!
+Wendy, Wendy sol em va deixar; fa tant mal!
+Wendy, Wendy sol em va deixar; fa tant mal!
+END"}
+{"prompt":"", "completion":" 
+Vull ser cantautor, 
+cantar i ballar. 
+Vull ser cantautor 
+i lluitar per un món millor. 
+Vull ser cantautor, 
+voltat sempre d´admiradors; 
+simpàtic i jovial 
+somriure a la televisió. 
+Un bon noi, un xic gandul, 
+la xicota un bon dia el va enviar a pastar. 
+Un pèl trist, medicat, 
+escriu versos en un àtic que ha llogat. 
+Jo vull ser cantautor 
+i riure-m´en dels creditors, 
+fer marranades amb tu 
+a l´estudi de gravació. 
+Vull ser cantautor 
+i a tothom estendre la mà; 
+donarm-e de tot cor 
+a la causa de la humanitat. 
+Subtileses 
+i eufemismes 
+per no haver d´escriure: 
+'...a prendre del sac!' 
+Hores i hores 
+cercant aquell mot 
+i al final només em surt: 
+'xafem-ho tot!'
+Jo vull ser cantautor, 
+cantar i ballar. 
+Vull ser cantautor 
+i lluitar per un món millor. 
+Sempre un ciutadà més 
+que l´èxit no em pujarà al cap; 
+però si Cuba no em vol cantar, 
+m´emprenyo i ho xafaré tot.END"}
